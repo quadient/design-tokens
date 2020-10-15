@@ -1,0 +1,11 @@
+{
+  "border": {
+    "width": {
+      "none": { "value": 0, "unit": "px" },
+      "100": { "value": 1, "unit": "px" },
+      "200": { "value": 2, "unit": "px" },
+      "300": { "value": 3, "unit": "px" },
+      "400": { "value": 4, "unit": "px" }
+    }
+  }
+}
