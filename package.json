@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/quadient/design-tokens.git"
   },
-  "author": "",
+  "author": "r.grof@quadient.com, d.tomas@quadient.com",
   "license": "MIT",
   "devDependencies": {
     "style-dictionary": "2.10.1"
