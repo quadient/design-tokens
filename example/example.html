@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="../build/css/variables.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: var(--color-bg-ui-100);
+            font-family: var(--font-body-font-family);
+            font-size: var(--font-body-size);
+            line-height: var(--font-body-line-height);
+            font-weight: var(--font-body-weight);
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        table,
+        th,
+        td {
+            color: var(--color-text-interactive-200);
+            border: var(--border-width-100) solid var(--color-border-100);
+            padding: var(--spacing-300)
+        }
+
+        .example-color-preview-base {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            border-radius: var(--radius-200);
+            border: var(--border-width-100) solid var(--color-border-100);
+            padding: var(--spacing-600);
+            margin: var(--spacing-300);
+            background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJ0lEQVQoU2MMCgpqYEAD7e3t6EIMjENB4c2bNzE8U1lZiemZIaAQAMD1JZD7MuRNAAAAAElFTkSuQmCC);
+            color: var(--color-text-interactive-100)
+        }
+
+        .example-color-preview {
+            content: '';
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            left: 0;
+            top: 0;
+            background: yellow
+        }
+
+        .heading200 {
+            font-size: var(--font-heading-200-size);
+            line-height: var(--font-heading-200-line-height);
+            font-weight: var(--font-heading-200-weight);
+            color: var(--color-text-interactive-200);
+        }
+    </style>
+</head>
+
+<body>
+    <script type="text/javascript">
+        function onThemeChange(v) {
+            var cssLink = document.getElementsByTagName('link')[0];
+            if (cssLink) {
+                switch (v) {
+                    case 'darkTheme':
+                        cssLink.href = '../build/css/variablesDarkTheme.css'
+                        break;
+                    default:
+                        cssLink.href = '../build/css/variables.css'
+                }
+            }
+        }
+    </script>
+    <select type="select" onchange="onThemeChange(this.value)">
+        <option value="defaultTheme">Default theme</option>
+        <option value="darkTheme">Dark theme</option>
+    </select>
+    <h2 class="heading200">Table shows some color tokens with color preview</h2>
+    <table>
+        <thead>
+            <th>Token name</th>
+            <th>Color</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>color-primary</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-primary);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-bg-interactive-100</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-bg-interactive-100);">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-bg-interactive-100-hover</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-bg-interactive-100-hover);">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-bg-interactive-100-selected</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-bg-interactive-100-selected);">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-bg-interactive-100-pressed</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-bg-interactive-100-pressed);">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-error</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview"
+                            style="background-color: var(--color-error);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-warning</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview"
+                            style="background-color: var(--color-warning);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-success</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-success);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-info</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-info);">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-text-100</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-text-100);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-text-200</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-text-200);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-text-300</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-text-300);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-text-400</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-text-400);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-text-link</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-text-link);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-focus-100</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-focus-100);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-focus-200</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-focus-200);"></div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>color-focus-300</td>
+                <td>
+                    <div class="example-color-preview-base">
+                        <div class="example-color-preview" style="background-color: var(--color-focus-300);"></div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

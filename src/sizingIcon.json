@@ -1,0 +1,10 @@
+{
+  "sizing": {
+    "icon": {
+      "100": { "value": 10, "unit": "px" },
+      "200": { "value": 20, "unit": "px" },
+      "300": { "value": 30, "unit": "px" },
+      "400": { "value": 40, "unit": "px" }
+    }
+  }
+}

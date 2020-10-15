@@ -1,0 +1,20 @@
+{
+  "name": "@quadient/design-tokens",
+  "version": "0.0.1",
+  "description": "Quadient design token generator tool. As an output, various types of formats are generated based on configuration in json input files.",
+  "main": "config.js",
+  "scripts": {
+    "build": "npm run buildDefaultTheme && npm run buildDarkTheme",
+    "buildDefaultTheme": "./node_modules/.bin/style-dictionary build ./config.js",
+    "buildDarkTheme": "./node_modules/.bin/style-dictionary build ./configDarkTheme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quadient/design-tokens.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "2.10.1"
+  }
+}
