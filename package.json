@@ -1,7 +1,7 @@
 {
   "name": "@quadient/design-tokens",
   "version": "0.0.1",
-  "description": "Quadient design token generator tool. As an output, various types of formats are generated based on configuration in json input files.",
+  "description": "Quadient design tokens generator tool. As an output, various types of formats are generated based on configuration in json input files.",
   "main": "config.js",
   "scripts": {
     "build": "npm run buildDefaultTheme && npm run buildDarkTheme",
