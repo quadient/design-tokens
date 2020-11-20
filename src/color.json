@@ -140,6 +140,15 @@
         "value": 1,
         "color": "{color.base.grey1000.value}",
         "opacity": "{opacity.base.000.value}"
+      },
+      "input": { "value": "{color.base.white.value}"},
+      "input-error": { "value": "{color.base.red.100.value}"},
+      "input-warning": { "value": "{color.base.orange.100.value}"},
+      "switch": {
+        "positive": { "value": "{color.primary.value}"},
+        "negative": { "value": "{color.base.grey.500.value}"},
+        "handle-positive": { "value": "{color.base.white.value}"},
+        "handle-negative": { "value": "{color.base.white.value}"}
       }
     },
     "error": { "value": "{color.base.red.500.value}" },
@@ -173,7 +182,8 @@
       "600": { "value": "{color.base.grey.800.value}" },
       "700": { "value": "{color.base.white.value}" },
       "error": { "value": "{color.base.red.500.value}" },
-      "warning": { "value": "{color.base.orange.500.value}" }
+      "warning": { "value": "{color.base.orange.500.value}" },
+      "input": { "value": "{color.base.grey.400.value}" }
     },
     "focus": {
       "100": {
