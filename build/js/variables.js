@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Oct 2020 13:21:34 GMT
+ * Generated on Fri, 20 Nov 2020 07:51:18 GMT
  */
 
 export const ColorPrimary = "#994cf2"; // Allowed value is one from: #24a644, #1a8abc, #2a76d7, #7462e9, #994cf2 
@@ -44,6 +44,13 @@ export const ColorBgInteractive400Pressed = "#d1d3d4";
 export const ColorBgTab = "rgba(64, 72, 75, 0.08)";
 export const ColorBgTabHover = "rgba(64, 72, 75, 0)";
 export const ColorBgTabSelected = "rgba(64, 72, 75, 0)";
+export const ColorBgInput = "#ffffff";
+export const ColorBgInputError = "#fdefef";
+export const ColorBgInputWarning = "#fef4eb";
+export const ColorBgSwitchPositive = "#994cf2";
+export const ColorBgSwitchNegative = "#a1a4a6";
+export const ColorBgSwitchHandlePositive = "#ffffff";
+export const ColorBgSwitchHandleNegative = "#ffffff";
 export const ColorError = "#dc3838";
 export const ColorWarning = "#ea7400";
 export const ColorInfo = "#1a8abc";
@@ -70,6 +77,7 @@ export const ColorBorder600 = "#5f6568";
 export const ColorBorder700 = "#ffffff";
 export const ColorBorderError = "#dc3838";
 export const ColorBorderWarning = "#ea7400";
+export const ColorBorderInput = "#c2c4c5";
 export const ColorFocus100 = "rgba(255, 255, 255, 0.68)";
 export const ColorFocus200 = "rgba(64, 72, 75, 0.68)";
 export const ColorFocus300 = "rgba(153, 76, 242, 0.68)";

@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 14 Oct 2020 13:21:37 GMT
+// Generated on Fri, 20 Nov 2020 07:51:20 GMT
 
 $color-primary: #b985f6; // Allowed value is one from: #6ac280, #63afd1, #6ea2e4, #a094f0, #b985f6 
 $color-brand: #72bf44;
@@ -43,6 +43,13 @@ $color-bg-interactive-400-pressed: #6e7476;
 $color-bg-tab: rgba(255, 255, 255, 0.08);
 $color-bg-tab-hover: rgba(255, 255, 255, 0);
 $color-bg-tab-selected: rgba(255, 255, 255, 0);
+$color-bg-input: #40484b;
+$color-bg-input-error: #4d4649;
+$color-bg-input-warning: #4e4b45;
+$color-bg-switch-positive: #b985f6;
+$color-bg-switch-negative: #a1a4a6;
+$color-bg-switch-handle-positive: #40484b;
+$color-bg-switch-handle-negative: #40484b;
 $color-error: #e77878;
 $color-warning: #f1a052;
 $color-info: #63afd1;
@@ -69,6 +76,7 @@ $color-border-600: #e0e2e2;
 $color-border-700: #40484b;
 $color-border-error: #e77878;
 $color-border-warning: #f1a052;
+$color-border-input: #7d8385;
 $color-focus-100: rgba(64, 72, 75, 0.68);
 $color-focus-200: rgba(255, 255, 255, 0.68);
 $color-focus-300: rgba(185, 133, 246, 0.68);
