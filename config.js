@@ -39,16 +39,19 @@ StyleDictionary.registerAction({
 
 
 let source = [
+  "src/angle.json",
   "src/brand.json",
   "src/colorPrimaryVariant.json",
   "src/color.json",
   "src/colorBase.json",
   "src/border.json",
   "src/font.json",
- "src/opacity.json",
+  "src/gradient.json",
+  "src/opacity.json",
   "src/opacityBase.json",
- "src/radius.json",
- "src/spacing.json",
+  "src/radius.json",
+  "src/radiusBase.json",
+  "src/spacing.json",
   "src/sizingIcon.json",
   "src/shadow.json",
 ]

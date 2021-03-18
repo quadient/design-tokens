@@ -2,8 +2,9 @@
   "color": {
     "bg": {
       "ui100": { "value": "{color.base.white.value}" },
-      "ui200": { "value": "{color.base.grey.100.value}" },
-      "header100": { "value": "{color.base.grey1000.value}" },
+      "ui200": { "value": "{color.base.grey.050.value}" },
+      "ui300": { "value": "{color.base.grey.100.value}" },
+      "header100": { "value": "{color.base.white.value}" },
       "interactive": {
         "100": { "value": "{color.primary.value}" },
         "100-hover": {
@@ -14,12 +15,12 @@
         "100-selected": {
           "value": 1,
           "color": "{color.primary.value}",
-          "opacity": "{opacity.base.800.value}"
+          "opacity": "{opacity.base.850.value}"
         },
         "100-pressed": {
           "value": 1,
           "color": "{color.primary.value}",
-          "opacity": "{opacity.base.700.value}"
+          "opacity": "{opacity.base.800.value}"
         },
         "100-error": { "value": "{color.base.red.500.value}" },
         "100-error-hover": {
@@ -30,12 +31,12 @@
         "100-error-selected": {
           "value": 1,
           "color": "{color.base.red.500.value}",
-          "opacity": "{opacity.base.800.value}"
+          "opacity": "{opacity.base.850.value}"
         },
         "100-error-pressed": {
           "value": 1,
           "color": "{color.base.red.500.value}",
-          "opacity": "{opacity.base.700.value}"
+          "opacity": "{opacity.base.800.value}"
         },
         "100-warning": { "value": "{color.base.orange.500.value}" },
         "100-warning-hover": {
@@ -46,12 +47,12 @@
         "100-warning-selected": {
           "value": 1,
           "color": "{color.base.orange.500.value}",
-          "opacity": "{opacity.base.800.value}"
+          "opacity": "{opacity.base.850.value}"
         },
         "100-warning-pressed": {
           "value": 1,
           "color": "{color.base.orange.500.value}",
-          "opacity": "{opacity.base.700.value}"
+          "opacity": "{opacity.base.800.value}"
         },
         "200": {
           "value": 1,
@@ -66,12 +67,12 @@
         "200-selected": {
           "value": 1,
           "color": "{color.base.grey1000.value}",
-          "opacity": "{opacity.base.200.value}"
+          "opacity": "{opacity.base.150.value}"
         },
         "200-pressed": {
           "value": 1,
           "color": "{color.base.grey1000.value}",
-          "opacity": "{opacity.base.300.value}"
+          "opacity": "{opacity.base.200.value}"
         },
         "200-inverted": {
           "value": 1,
@@ -86,12 +87,12 @@
         "200-inverted-selected": {
           "value": 1,
           "color": "{color.base.white.value}",
-          "opacity": "{opacity.base.200.value}"
+          "opacity": "{opacity.base.150.value}"
         },
         "200-inverted-pressed": {
           "value": 1,
           "color": "{color.base.white.value}",
-          "opacity": "{opacity.base.300.value}"
+          "opacity": "{opacity.base.200.value}"
         },
         "300": {
           "value": 1,
@@ -106,12 +107,12 @@
         "300-selected": {
           "value": 1,
           "color": "{color.primary.value}",
-          "opacity": "{opacity.base.200.value}"
+          "opacity": "{opacity.base.150.value}"
         },
         "300-pressed": {
           "value": 1,
           "color": "{color.primary.value}",
-          "opacity": "{opacity.base.300.value}"
+          "opacity": "{opacity.base.200.value}"
         },
         "400": {
           "value": "{color.base.white.value}"
@@ -120,10 +121,10 @@
           "value": "{color.base.grey.100.value}"
         },
         "400-selected": {
-          "value": "{color.base.grey.200.value}"
+          "value": "{color.base.grey.150.value}"
         },
         "400-pressed": {
-          "value": "{color.base.grey.300.value}"
+          "value": "{color.base.grey.200.value}"
         }
       },
       "tab": {
@@ -142,8 +143,8 @@
         "opacity": "{opacity.base.000.value}"
       },
       "input": { "value": "{color.base.white.value}"},
-      "input-error": { "value": "{color.base.red.100.value}"},
-      "input-warning": { "value": "{color.base.orange.100.value}"},
+      "input-error": { "value": "{color.base.white.value}"},
+      "input-warning": { "value": "{color.base.white.value}"},
       "switch": {
         "positive": { "value": "{color.primary.value}"},
         "negative": { "value": "{color.base.grey.500.value}"},
@@ -159,7 +160,7 @@
     "text": {
       "100": { "value": "{color.base.grey1000.value}" },
       "200": { "value": "{color.base.grey.700.value}" },
-      "300": { "value": "{color.base.grey.500.value}" },
+      "300": { "value": "{color.base.grey.600.value}" },
       "400": { "value": "{color.base.white.value}" },
       "link": { "value": "{color.base.ocean-blue.500.value}" },
       "interactive100": { "value": "{color.base.white.value}" },
@@ -170,20 +171,21 @@
       "100": { "value": "{color.base.grey1000.value}" },
       "200": { "value": "{color.base.white.value}" },
       "300": { "value": "{color.primary.value}" },
+      "400": { "value": "{color.base.grey.500.value}" },
       "error": { "value": "{color.base.red.500.value}" },
       "warning": { "value": "{color.base.orange.500.value}" }
     },
     "border": {
       "100": { "value": "{color.base.grey1000.value}" },
-      "200": { "value": "{color.base.grey.300.value}" },
-      "300": { "value": "{color.base.grey.200.value}" },
-      "400": { "value": "{color.base.grey.400.value}" },
+      "200": { "value": "{color.base.grey.200.value}" },
+      "300": { "value": "{color.base.grey.100.value}" },
+      "400": { "value": "{color.base.grey.300.value}" },
       "500": { "value": "{color.primary.value}" },
-      "600": { "value": "{color.base.grey.800.value}" },
+      "600": { "value": "{color.base.grey.150.value}" },
       "700": { "value": "{color.base.white.value}" },
       "error": { "value": "{color.base.red.500.value}" },
       "warning": { "value": "{color.base.orange.500.value}" },
-      "input": { "value": "{color.base.grey.400.value}" }
+      "input": { "value": "{color.base.grey.200.value}" }
     },
     "focus": {
       "100": {

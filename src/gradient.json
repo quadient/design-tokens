@@ -1,0 +1,7 @@
+{
+  "gradient": {
+    "appLogo": { "value" : "transparent linear-gradient({angle.200.value}, {color.brand.100.value} 0%, {color.brand.200.value} 100%) 0% 0% no-repeat padding-box" },
+    "appHeaderStripe": { "value" : "transparent linear-gradient({angle.300.value}, {color.brand.100.value} 0%, {color.brand.200.value} 100%) 0% 0% no-repeat padding-box" },
+    "signInBg": { "value" : "transparent linear-gradient({angle.300.value}, {color.brand.100.value} 0%, {color.brand.200.value} 100%) 0% 0% no-repeat padding-box" }
+  }
+}
