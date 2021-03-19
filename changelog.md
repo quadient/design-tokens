@@ -12,6 +12,9 @@
   - color-brand-100
   - color-brand-200
   - color-bg-ui-300
+  - color-icon-100-hover
+  - color-icon-100-selected
+  - color-icon-100-pressed
   - color-icon-400
   - color-base-grey-050
   - color-base-grey-150

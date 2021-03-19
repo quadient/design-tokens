@@ -169,6 +169,9 @@
     },
     "icon": {
       "100": { "value": "{color.base.grey1000.value}" },
+      "100-hover": { "value": "{color.base.grey1000.value}" },
+      "100-selected": { "value": "{color.base.grey1000.value}" },
+      "100-pressed": { "value": "{color.base.grey1000.value}" },
       "200": { "value": "{color.base.white.value}" },
       "300": { "value": "{color.primary.value}" },
       "400": { "value": "{color.base.grey.500.value}" },
