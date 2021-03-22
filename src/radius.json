@@ -1,12 +1,17 @@
 {
   "radius": {
-    "none": { "value": 0, "unit": "px" },
-    "100": { "value": 2, "unit": "px" },
-    "200": { "value": 4, "unit": "px" },
-    "300": { "value": 8, "unit": "px" },
-    "400": { "value": 12, "unit": "px" },
-    "500": { "value": 16, "unit": "px" },
-    "full": { "value": "50%" },
-    "pill": { "value": "20em" }
+    "input": {
+      "100" : {"value": "{radius.base.200.value}"}
+    },
+    "button": {
+      "100" : {"value": "{radius.base.600.value}"},
+      "200" : {"value": "{radius.base.300.value}"}
+    },
+    "list": {
+      "100" : {"value": "{radius.base.300.value}"}
+    },
+    "container": {
+      "100" : {"value": "{radius.base.300.value}"}
+    }
   }
 }

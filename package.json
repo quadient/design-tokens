@@ -1,6 +1,6 @@
 {
   "name": "@quadient/design-tokens",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quadient design tokens generator tool. As an output, various types of formats are generated based on configuration in json input files.",
   "main": "config.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/quadient/design-tokens.git"
   },
-  "author": "r.grof@quadient.com, d.tomas@quadient.com",
+  "author": "r.grof@quadient.com, d.tomas@quadient.com, z.sladek@quadient.com",
   "license": "MIT",
   "devDependencies": {
     "style-dictionary": "2.10.1"

@@ -5,7 +5,8 @@
       "comment": "Allowed value is one from: {color.primaryVariant.100.value}, {color.primaryVariant.200.value}, {color.primaryVariant.300.value}, {color.primaryVariant.400.value}, {color.primaryVariant.500.value} "
     },
     "brand": {
-      "value": "#72BF44"
+      "100" : {"value": "#2A76D7"},
+      "200" : {"value": "#275B9C", "comment": "This color is used in gradients."}
     }
   }
 }
