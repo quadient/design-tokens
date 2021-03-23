@@ -1,6 +1,6 @@
 # 0.0.3
 ## Added
-- new tokens according latest UX specification:
+- new tokens according latest UX specification: 
   - angle-100
   - angle-200
   - angle-300
