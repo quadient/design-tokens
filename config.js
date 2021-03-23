@@ -37,7 +37,6 @@ StyleDictionary.registerAction({
   undo: () => {},
 });
 
-
 let source = [
   "src/angle.json",
   "src/brand.json",
