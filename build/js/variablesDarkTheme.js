@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Mar 2021 10:58:42 GMT
+ * Generated on Mon, 29 Mar 2021 10:51:07 GMT
  */
 
 export const Angle100 = "0deg";
@@ -72,11 +72,17 @@ export const ColorText400 = "#b8b8b8";
 export const ColorTextLink = "#54a8c9";
 export const ColorTextInteractive100 = "#212121";
 export const ColorTextInteractive200 = "#ffffff";
+export const ColorTextInteractive200Hover = "#ffffff";
+export const ColorTextInteractive200Selected = "#ffffff";
+export const ColorTextInteractive200Pressed = "#ffffff";
 export const ColorTextInteractive300 = "#b985f6";
 export const ColorIcon100 = "#ffffff";
 export const ColorIcon200 = "#212121";
 export const ColorIcon300 = "#b985f6";
 export const ColorIcon400 = "#909090";
+export const ColorIcon100Hover = "#ffffff";
+export const ColorIcon100Selected = "#ffffff";
+export const ColorIcon100Pressed = "#ffffff";
 export const ColorIconError = "#e77878";
 export const ColorIconWarning = "#f1a052";
 export const ColorBorder100 = "#ffffff";
@@ -239,8 +245,8 @@ export const ColorBaseGrey950 = "#2a2a2a";
 export const ColorBaseGrey050 = "#f6f6f6";
 export const BorderWidth100 = 1;
 export const BorderWidth200 = 2;
-export const BorderWidth300 = 3;
-export const BorderWidth400 = 4;
+export const BorderWidth300 = 4;
+export const BorderWidth400 = 8;
 export const BorderWidthNone = 0;
 export const FontBodyFontFamily = "'Open Sans', sans-serif";
 export const FontBodySize = 13;
@@ -347,9 +353,9 @@ export const FontExpressive400Weight = 400;
 export const FontExpressive400FontStyle = "normal";
 export const FontExpressive400LetterSpacing = 0;
 export const FontExpressive400TextTransform = "none";
-export const GradientAppLogo = "transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
+export const GradientAppHeaderLogo = "transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
 export const GradientAppHeaderStripe = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
-export const GradientSignInBg = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
+export const GradientAppSigninBg = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
 export const OpacityDisabled = 0.32;
 export const OpacityBase100 = 0.08;
 export const OpacityBase150 = 0.12;

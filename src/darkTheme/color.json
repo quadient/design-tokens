@@ -154,6 +154,9 @@
       "link": { "value": "{color.base.ocean-blue.300.value}" },
       "interactive100": { "value": "{color.base.grey1000.value}" },
       "interactive200": { "value": "{color.base.white.value}" },
+      "interactive200-hover": { "value": "{color.base.white.value}" },
+      "interactive200-selected": { "value": "{color.base.white.value}" },
+      "interactive200-pressed": { "value": "{color.base.white.value}" },
       "interactive300": { "value": "{color.primary.value}" }
     },
     "icon": {

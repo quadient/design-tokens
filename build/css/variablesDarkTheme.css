@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Mar 2021 10:58:41 GMT
+ * Generated on Mon, 29 Mar 2021 10:51:06 GMT
  */
 
 :root {
@@ -73,11 +73,17 @@
   --color-text-link: #54a8c9;
   --color-text-interactive-100: #212121;
   --color-text-interactive-200: #ffffff;
+  --color-text-interactive-200-hover: #ffffff;
+  --color-text-interactive-200-selected: #ffffff;
+  --color-text-interactive-200-pressed: #ffffff;
   --color-text-interactive-300: #b985f6;
   --color-icon-100: #ffffff;
   --color-icon-200: #212121;
   --color-icon-300: #b985f6;
   --color-icon-400: #909090;
+  --color-icon-100-hover: #ffffff;
+  --color-icon-100-selected: #ffffff;
+  --color-icon-100-pressed: #ffffff;
   --color-icon-error: #e77878;
   --color-icon-warning: #f1a052;
   --color-border-100: #ffffff;
@@ -240,8 +246,8 @@
   --color-base-grey-050: #f6f6f6;
   --border-width-100: 1px;
   --border-width-200: 2px;
-  --border-width-300: 3px;
-  --border-width-400: 4px;
+  --border-width-300: 4px;
+  --border-width-400: 8px;
   --border-width-none: 0px;
   --font-body-font-family: 'Open Sans', sans-serif;
   --font-body-size: 13px;
@@ -348,9 +354,9 @@
   --font-expressive-400-font-style: normal;
   --font-expressive-400-letter-spacing: 0px;
   --font-expressive-400-text-transform: none;
-  --gradient-app-logo: transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
+  --gradient-app-header-logo: transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
   --gradient-app-header-stripe: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
-  --gradient-sign-in-bg: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
+  --gradient-app-signin-bg: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
   --opacity-disabled: 0.32;
   --opacity-base-100: 0.08;
   --opacity-base-150: 0.12;
@@ -401,4 +407,3 @@
   --shadow-600: 0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16);
   --shadow-none: none;
 }
-

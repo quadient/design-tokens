@@ -23,6 +23,9 @@
   - gradient-app-logo
   - gradient-app-header-stripe
   - gradient-sign-in-bg
+  - interactive200-hover
+  - interactive200-selected
+  - interactive200-pressed
   - opacity-base-050
   - opacity-base-150
   - opacity-base-850
@@ -41,6 +44,7 @@
   - radius-base-none
   - radius-base-full
   - radius-base-pill
+
 ## Removed
 - removed tokens according latest UX specification:
   - color-brand (use color-brand-100 instead)

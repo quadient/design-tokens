@@ -4,6 +4,7 @@ const path = require("path");
 const fs = require("fs");
 
 const isDarkThemeConfiguration = process.argv[3] && process.argv[3] === './configDarkTheme.js'; 
+const isLegacyThemeConfiguration = process.argv[3] && process.argv[3] === './configLegacyTheme.js'; 
 
 StyleDictionary.registerAction({
   name: "convertToRGBa",
@@ -37,6 +38,7 @@ StyleDictionary.registerAction({
   undo: () => {},
 });
 
+
 let source = [
   "src/angle.json",
   "src/brand.json",
@@ -60,6 +62,22 @@ if(isDarkThemeConfiguration) {
     "src/darkTheme/color.json",
     "src/darkTheme/colorPrimaryVariant.json"
   )
+}
+
+if(isLegacyThemeConfiguration) {
+  source.push(
+    "src/legacyTheme/color.json",
+  )
+}
+
+function getFileName() {
+  if(isLegacyThemeConfiguration) {
+    return 'variablesLegacyTheme'
+  }
+  if(isDarkThemeConfiguration) {
+    return 'variablesDarkTheme'
+  }
+  return 'variables'
 }
 
 module.exports = {
@@ -94,7 +112,7 @@ module.exports = {
       buildPath: "build/scss/",
       files: [
         {
-          destination:  isDarkThemeConfiguration ? "variablesDarkTheme.scss": "variables.scss",
+          destination:  `${getFileName()}.scss`,
           format: "scss/variables",
         },
       ],
@@ -108,7 +126,7 @@ module.exports = {
       buildPath: "build/less/",
       files: [
         {
-          destination: isDarkThemeConfiguration ? "variablesDarkTheme.less": "variables.less",
+          destination: `${getFileName()}.less`,
           format: "less/variables",
         },
       ],
@@ -123,7 +141,7 @@ module.exports = {
 
       files: [
         {
-          destination: isDarkThemeConfiguration ? "variablesDarkTheme.css": "variables.css",
+          destination: `${getFileName()}.css`,
           format: "css/variables",
         },
       ],
@@ -134,7 +152,7 @@ module.exports = {
       buildPath: "build/js/",
       files: [
         {
-          destination: isDarkThemeConfiguration ? "variablesDarkTheme.js": "variables.js",
+          destination: `${getFileName()}.js`,
           format: "javascript/es6",
         },
       ],
@@ -145,7 +163,7 @@ module.exports = {
       buildPath: "build/json/",
       files: [
         {
-          destination:  isDarkThemeConfiguration ? "variablesDarkTheme.json": "variables.json",
+          destination:  `${getFileName()}.json`,
           format: "json/flat",
         },
       ],
