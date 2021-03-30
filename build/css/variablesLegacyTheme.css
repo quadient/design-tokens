@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 29 Mar 2021 10:51:02 GMT
+ * Generated on Mon, 29 Mar 2021 10:51:10 GMT
  */
 
 :root {
@@ -21,7 +21,7 @@
   --color-primary-variant-400: #7462e9;
   --color-primary-variant-500: #994cf2;
   --color-bg-ui-100: #ffffff;
-  --color-bg-ui-200: #f6f6f6;
+  --color-bg-ui-200: #eeeeee;
   --color-bg-ui-300: #eeeeee;
   --color-bg-header-100: #ffffff;
   --color-bg-interactive-100: #994cf2;
@@ -39,9 +39,9 @@
   --color-bg-interactive-100-warning-hover: rgba(234, 116, 0, 0.92);
   --color-bg-interactive-100-warning-selected: rgba(234, 116, 0, 0.88);
   --color-bg-interactive-100-warning-pressed: rgba(234, 116, 0, 0.84);
-  --color-bg-interactive-200-hover: rgba(33, 33, 33, 0.08);
-  --color-bg-interactive-200-selected: rgba(33, 33, 33, 0.12);
-  --color-bg-interactive-200-pressed: rgba(33, 33, 33, 0.16);
+  --color-bg-interactive-200-hover: rgba(33, 33, 33, 0);
+  --color-bg-interactive-200-selected: rgba(33, 33, 33, 0);
+  --color-bg-interactive-200-pressed: rgba(33, 33, 33, 0);
   --color-bg-interactive-200-inverted: rgba(255, 255, 255, 0);
   --color-bg-interactive-200-inverted-hover: rgba(255, 255, 255, 0.08);
   --color-bg-interactive-200-inverted-selected: rgba(255, 255, 255, 0.12);
@@ -72,18 +72,18 @@
   --color-text-400: #ffffff;
   --color-text-link: #037fb0;
   --color-text-interactive-100: #ffffff;
-  --color-text-interactive-200: #212121;
-  --color-text-interactive-200-hover: #212121;
-  --color-text-interactive-200-selected: #212121;
-  --color-text-interactive-200-pressed: #212121;
-  --color-text-interactive-300: #994cf2;
-  --color-icon-100: #212121;
+  --color-text-interactive-200: #454545;
+  --color-text-interactive-200-hover: #2a76d7;
+  --color-text-interactive-200-selected: #2a76d7;
+  --color-text-interactive-200-pressed: #2a76d7;
+  --color-text-interactive-300: #2a76d7;
+  --color-icon-100: #454545;
   --color-icon-200: #ffffff;
-  --color-icon-300: #994cf2;
-  --color-icon-400: #909090;
-  --color-icon-100-hover: #212121;
-  --color-icon-100-selected: #212121;
-  --color-icon-100-pressed: #212121;
+  --color-icon-300: #2a76d7;
+  --color-icon-400: #b8b8b8;
+  --color-icon-100-hover: #2a76d7;
+  --color-icon-100-selected: #2a76d7;
+  --color-icon-100-pressed: #2a76d7;
   --color-icon-error: #dc3838;
   --color-icon-warning: #ea7400;
   --color-border-100: #212121;

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 29 Mar 2021 10:51:03 GMT
+ * Generated on Mon, 29 Mar 2021 10:51:11 GMT
  */
 
 export const Angle100 = "0deg";
@@ -20,7 +20,7 @@ export const ColorPrimaryVariant300 = "#2a76d7";
 export const ColorPrimaryVariant400 = "#7462e9";
 export const ColorPrimaryVariant500 = "#994cf2";
 export const ColorBgUi100 = "#ffffff";
-export const ColorBgUi200 = "#f6f6f6";
+export const ColorBgUi200 = "#eeeeee";
 export const ColorBgUi300 = "#eeeeee";
 export const ColorBgHeader100 = "#ffffff";
 export const ColorBgInteractive100 = "#994cf2";
@@ -38,9 +38,9 @@ export const ColorBgInteractive100Warning = "#ea7400";
 export const ColorBgInteractive100WarningHover = "rgba(234, 116, 0, 0.92)";
 export const ColorBgInteractive100WarningSelected = "rgba(234, 116, 0, 0.88)";
 export const ColorBgInteractive100WarningPressed = "rgba(234, 116, 0, 0.84)";
-export const ColorBgInteractive200Hover = "rgba(33, 33, 33, 0.08)";
-export const ColorBgInteractive200Selected = "rgba(33, 33, 33, 0.12)";
-export const ColorBgInteractive200Pressed = "rgba(33, 33, 33, 0.16)";
+export const ColorBgInteractive200Hover = "rgba(33, 33, 33, 0)";
+export const ColorBgInteractive200Selected = "rgba(33, 33, 33, 0)";
+export const ColorBgInteractive200Pressed = "rgba(33, 33, 33, 0)";
 export const ColorBgInteractive200Inverted = "rgba(255, 255, 255, 0)";
 export const ColorBgInteractive200InvertedHover = "rgba(255, 255, 255, 0.08)";
 export const ColorBgInteractive200InvertedSelected = "rgba(255, 255, 255, 0.12)";
@@ -71,18 +71,18 @@ export const ColorText300 = "#686868";
 export const ColorText400 = "#ffffff";
 export const ColorTextLink = "#037fb0";
 export const ColorTextInteractive100 = "#ffffff";
-export const ColorTextInteractive200 = "#212121";
-export const ColorTextInteractive200Hover = "#212121";
-export const ColorTextInteractive200Selected = "#212121";
-export const ColorTextInteractive200Pressed = "#212121";
-export const ColorTextInteractive300 = "#994cf2";
-export const ColorIcon100 = "#212121";
+export const ColorTextInteractive200 = "#454545";
+export const ColorTextInteractive200Hover = "#2a76d7";
+export const ColorTextInteractive200Selected = "#2a76d7";
+export const ColorTextInteractive200Pressed = "#2a76d7";
+export const ColorTextInteractive300 = "#2a76d7";
+export const ColorIcon100 = "#454545";
 export const ColorIcon200 = "#ffffff";
-export const ColorIcon300 = "#994cf2";
-export const ColorIcon400 = "#909090";
-export const ColorIcon100Hover = "#212121";
-export const ColorIcon100Selected = "#212121";
-export const ColorIcon100Pressed = "#212121";
+export const ColorIcon300 = "#2a76d7";
+export const ColorIcon400 = "#b8b8b8";
+export const ColorIcon100Hover = "#2a76d7";
+export const ColorIcon100Selected = "#2a76d7";
+export const ColorIcon100Pressed = "#2a76d7";
 export const ColorIconError = "#dc3838";
 export const ColorIconWarning = "#ea7400";
 export const ColorBorder100 = "#212121";

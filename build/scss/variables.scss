@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Thu, 18 Mar 2021 10:58:34 GMT
+// Generated on Mon, 29 Mar 2021 10:51:01 GMT
 
 $angle-100: 0deg;
 $angle-200: 45deg;
@@ -71,11 +71,17 @@ $color-text-400: #ffffff;
 $color-text-link: #037fb0;
 $color-text-interactive-100: #ffffff;
 $color-text-interactive-200: #212121;
+$color-text-interactive-200-hover: #212121;
+$color-text-interactive-200-selected: #212121;
+$color-text-interactive-200-pressed: #212121;
 $color-text-interactive-300: #994cf2;
 $color-icon-100: #212121;
 $color-icon-200: #ffffff;
 $color-icon-300: #994cf2;
 $color-icon-400: #909090;
+$color-icon-100-hover: #212121;
+$color-icon-100-selected: #212121;
+$color-icon-100-pressed: #212121;
 $color-icon-error: #dc3838;
 $color-icon-warning: #ea7400;
 $color-border-100: #212121;
@@ -238,8 +244,8 @@ $color-base-grey-950: #2a2a2a;
 $color-base-grey-050: #f6f6f6;
 $border-width-100: 1px;
 $border-width-200: 2px;
-$border-width-300: 3px;
-$border-width-400: 4px;
+$border-width-300: 4px;
+$border-width-400: 8px;
 $border-width-none: 0px;
 $font-body-font-family: 'Open Sans', sans-serif;
 $font-body-size: 13px;
@@ -346,9 +352,9 @@ $font-expressive-400-weight: 400;
 $font-expressive-400-font-style: normal;
 $font-expressive-400-letter-spacing: 0px;
 $font-expressive-400-text-transform: none;
-$gradient-app-logo: transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
+$gradient-app-header-logo: transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
 $gradient-app-header-stripe: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
-$gradient-sign-in-bg: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
+$gradient-app-signin-bg: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
 $opacity-disabled: 0.32;
 $opacity-base-100: 0.08;
 $opacity-base-150: 0.12;

@@ -1,0 +1,42 @@
+{
+    "color": {
+      "bg": {
+        "ui200": { "value": "{color.base.grey.100.value}" },
+        "header100": { "value": "{color.base.white.value}" },
+        "interactive": {
+          "200-hover": {
+            "value": 1,
+            "color": "{color.base.grey1000.value}",
+            "opacity": "{opacity.base.000.value}"
+          },
+          "200-selected": {
+            "value": 1,
+            "color": "{color.base.grey1000.value}",
+            "opacity": "{opacity.base.000.value}"
+          },
+          "200-pressed": {
+            "value": 1,
+            "color": "{color.base.grey1000.value}",
+            "opacity": "{opacity.base.000.value}"
+          }
+        }
+      },
+      "text": {
+        "interactive100": { "value": "{color.base.white.value}" },
+        "interactive200": { "value": "{color.base.grey.800.value}" },
+        "interactive200-hover": { "value": "{color.brand.100.value}" },
+        "interactive200-selected": { "value": "{color.brand.100.value}" },
+        "interactive200-pressed": { "value": "{color.brand.100.value}" },
+        "interactive300": { "value": "{color.brand.100.value}" }
+      },
+      "icon": {
+        "100": { "value": "{color.base.grey.800.value}" },
+        "100-hover": { "value": "{color.brand.100.value}" },
+        "100-selected": { "value": "{color.brand.100.value}" },
+        "100-pressed": { "value": "{color.brand.100.value}" },
+        "300": { "value": "{color.brand.100.value}" },
+        "400": { "value": "{color.base.grey.400.value}" }
+      }     
+    }
+  }
+  

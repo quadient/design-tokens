@@ -1,12 +1,13 @@
 {
   "name": "@quadient/design-tokens",
-  "version": "0.0.3", 
+  "version": "0.0.3",
   "description": "Quadient design tokens generator tool. As an output, various types of formats are generated based on configuration in json input files.",
   "main": "config.js",
   "scripts": {
-    "build": "npm run buildDefaultTheme && npm run buildDarkTheme",
-    "buildDefaultTheme": "./node_modules/.bin/style-dictionary build ./config.js",
-    "buildDarkTheme": "./node_modules/.bin/style-dictionary build ./configDarkTheme.js"
+    "build": "call npm run buildDefaultTheme && npm run buildDarkTheme && npm run buildLegacyTheme",
+    "buildDefaultTheme": "call ./node_modules/.bin/style-dictionary build ./config.js",
+    "buildDarkTheme": "call ./node_modules/.bin/style-dictionary build ./configDarkTheme.js",
+    "buildLegacyTheme": "call ./node_modules/.bin/style-dictionary build ./configLegacyTheme.js"
   },
   "repository": {
     "type": "git",
