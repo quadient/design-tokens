@@ -1,3 +1,35 @@
+# 0.0.4
+## Changed
+- used `Rubik` and `Quicksand` as default fonts
+- font `caption` tokens were renamed to `label` 
+- font `navigation` tokens were renamed to `strong` 
+- font `heading` tokens were updated according latest UX spec
+
+## Added
+- new legacy font tokens with `Open Sans` font family
+- new tokens for sizing
+- new values for legacy theme
+- new tokens for charts:
+  `color-chart-amethyst-violet-500`
+  `color-chart-amethyst-violet-300`
+  `color-chart-lavender-violet-500`
+  `color-chart-lavender-violet-300`
+  `color-chart-dark-blue-500`
+  `color-chart-dark-blue-300`
+- new token `color-bg-tab-pressed`
+
+## Fixed
+- token value for:
+  `color-bg-interactive-400`
+  `color-bg-interactive-400-hover`
+  `color-bg-interactive-400-selected`
+  `color-bg-interactive-400-pressed`
+  `color-text-100`
+  `color-text-300`
+  `color-bg-tab`
+  `color-bg-tab-hover`
+  `color-bg-tab-selected`
+
 # 0.0.3
 ## Added
 - new tokens according latest UX specification: 
