@@ -1,3 +1,7 @@
+# 0.0.5
+## Fixed
+- `fontSize` and `fontWeight` values of font `strong` for legacy theme 
+
 # 0.0.4
 ## Changed
 - used `Rubik` and `Quicksand` as default fonts
