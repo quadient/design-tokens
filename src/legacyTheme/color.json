@@ -18,10 +18,20 @@
             "value": 1,
             "color": "{color.base.grey1000.value}",
             "opacity": "{opacity.base.000.value}"
+          },
+          "400-selected": {
+            "value": 1,
+            "color": "{color.brand.100.value}",
+            "opacity": "{opacity.base.200.value}"
+          },
+          "400-pressed": {
+            "value": "{color.base.grey.100.value}"
           }
         }
       },
       "text": {
+        "100": { "value": "{color.base.grey.800.value}" },
+        "300": { "value": "{color.base.grey.400.value}" },
         "interactive100": { "value": "{color.base.white.value}" },
         "interactive200": { "value": "{color.base.grey.800.value}" },
         "interactive200-hover": { "value": "{color.brand.100.value}" },

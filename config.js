@@ -53,7 +53,7 @@ let source = [
   "src/radius.json",
   "src/radiusBase.json",
   "src/spacing.json",
-  "src/sizingIcon.json",
+  "src/sizing.json",
   "src/shadow.json",
 ]
 
@@ -67,6 +67,7 @@ if(isDarkThemeConfiguration) {
 if(isLegacyThemeConfiguration) {
   source.push(
     "src/legacyTheme/color.json",
+    "src/legacyTheme/font.json"
   )
 }
 
