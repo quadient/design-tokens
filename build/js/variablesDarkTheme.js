@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Apr 2021 10:24:10 GMT
+ * Generated on Thu, 27 May 2021 09:23:44 GMT
  */
 
 export const Angle100 = "0deg";
@@ -22,6 +22,7 @@ export const ColorPrimaryVariant500 = "#b985f6";
 export const ColorBgUi100 = "#212121";
 export const ColorBgUi200 = "#2a2a2a";
 export const ColorBgUi300 = "#323232";
+export const ColorBgUi300Inverted = "#eeeeee";
 export const ColorBgHeader100 = "#212121";
 export const ColorBgInteractive100 = "#b985f6";
 export const ColorBgInteractive200 = "rgba(255, 255, 255, 0)";
@@ -68,7 +69,7 @@ export const ColorInfo = "#54a8c9";
 export const ColorSuccess = "#61af77";
 export const ColorText100 = "#ffffff";
 export const ColorText200 = "#cacaca";
-export const ColorText300 = "#323232";
+export const ColorText300 = "#b8b8b8";
 export const ColorText400 = "#b8b8b8";
 export const ColorTextLink = "#54a8c9";
 export const ColorTextInteractive100 = "#212121";
@@ -77,6 +78,8 @@ export const ColorTextInteractive200Hover = "#ffffff";
 export const ColorTextInteractive200Selected = "#ffffff";
 export const ColorTextInteractive200Pressed = "#ffffff";
 export const ColorTextInteractive300 = "#b985f6";
+export const ColorTextError = "#ffffff";
+export const ColorTextWarning = "#ffffff";
 export const ColorIcon100 = "#ffffff";
 export const ColorIcon200 = "#212121";
 export const ColorIcon300 = "#b985f6";
@@ -250,10 +253,23 @@ export const ColorBaseGrey850 = "#3c3c3c";
 export const ColorBaseGrey900 = "#323232";
 export const ColorBaseGrey950 = "#2a2a2a";
 export const ColorBaseGrey050 = "#f6f6f6";
+export const Duration100 = "70ms";
+export const Duration150 = "130ms";
+export const Duration200 = "160ms";
+export const Duration250 = "190ms";
+export const Duration300 = "220ms";
+export const Duration350 = "250ms";
+export const Duration400 = "300ms";
+export const EasingStandard = "cubic-bezier(0.45,0,0.40,1)";
+export const EasingDecelerated = "cubic-bezier(0,0,0.40,1)";
+export const EasingAccelerated = "cubic-bezier(0.50,0,1,1)";
 export const BorderWidth100 = 1;
 export const BorderWidth200 = 2;
 export const BorderWidth300 = 4;
 export const BorderWidth400 = 8;
+export const BorderWidth500 = 12;
+export const BorderWidth600 = 16;
+export const BorderWidth700 = 24;
 export const BorderWidthNone = 0;
 export const FontBodyFontFamily = "'Rubik', sans-serif";
 export const FontBodySize = 14;
@@ -405,10 +421,12 @@ export const SizingIcon100 = 10;
 export const SizingIcon200 = 20;
 export const SizingIcon300 = 30;
 export const SizingIcon400 = 40;
+export const SizingIcon500 = 60;
 export const SizingItem100 = 24;
 export const SizingItem200 = 28;
 export const SizingItem300 = 36;
 export const SizingItem400 = 48;
+export const SizingItem450 = 52;
 export const SizingItem500 = 64;
 export const SizingItem000 = 20;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";

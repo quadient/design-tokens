@@ -10,6 +10,9 @@
       "ui300": {
         "value": "{color.base.grey.100.value}"
       },
+      "ui300-inverted": {
+        "value": "{color.base.grey.900.value}"
+      },
       "header100": {
         "value": "{color.base.white.value}"
       },
@@ -230,6 +233,12 @@
       },
       "interactive300": {
         "value": "{color.primary.value}"
+      },
+      "error": {
+        "value": "{color.base.grey1000.value}"
+      },
+      "warning": {
+        "value": "{color.base.grey1000.value}"
       }
     },
     "icon": {

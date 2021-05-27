@@ -37,7 +37,9 @@
         "interactive200-hover": { "value": "{color.brand.100.value}" },
         "interactive200-selected": { "value": "{color.brand.100.value}" },
         "interactive200-pressed": { "value": "{color.brand.100.value}" },
-        "interactive300": { "value": "{color.brand.100.value}" }
+        "interactive300": { "value": "{color.brand.100.value}" },
+        "error": { "value": "{color.base.red.500.value}" },
+        "warning": { "value": "{color.base.orange.500.value}" }
       },
       "icon": {
         "100": { "value": "{color.base.grey.800.value}" },

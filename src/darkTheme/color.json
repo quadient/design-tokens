@@ -10,6 +10,9 @@
       "ui300": {
         "value": "{color.base.grey.900.value}"
       },
+      "ui300-inverted": {
+        "value": "{color.base.grey.100.value}"
+      },
       "header100": {
         "value": "{color.base.grey1000.value}"
       },
@@ -195,7 +198,7 @@
         "value": "{color.base.grey.300.value}"
       },
       "300": {
-        "value": "{color.base.grey.900.value}"
+        "value": "{color.base.grey.400.value}"
       },
       "400": {
         "value": "{color.base.grey.400.value}"
@@ -220,6 +223,12 @@
       },
       "interactive300": {
         "value": "{color.primary.value}"
+      },
+      "error": {
+        "value": "{color.base.white.value}"
+      },
+      "warning": {
+        "value": "{color.base.white.value}"
       }
     },
     "icon": {

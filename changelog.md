@@ -1,3 +1,28 @@
+# 0.0.6
+## Added
+- new tokens:
+  `sizing-item-450`
+  `sizing-icon-500`
+  `border-width-500`
+  `border-width-600`
+  `border-width-700`
+  `duration-100`
+  `duration-150`
+  `duration-200`
+  `duration-250`
+  `duration-300`
+  `duration-350`
+  `duration-400`
+  `easing-standard`
+  `easing-decelerated`
+  `easing-accelerated`
+  `color-text-error`
+  `color-text-warning`
+  `color-bg-ui-300-inverted`
+
+## Fixed
+  - `color-text-300` value for dark theme
+  
 # 0.0.5
 ## Fixed
 - `fontSize` and `fontWeight` values of font `strong` for legacy theme 

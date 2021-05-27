@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Apr 2021 10:24:09 GMT
+ * Generated on Thu, 27 May 2021 09:23:44 GMT
  */
 
 :root {
@@ -23,6 +23,7 @@
   --color-bg-ui-100: #212121;
   --color-bg-ui-200: #2a2a2a;
   --color-bg-ui-300: #323232;
+  --color-bg-ui-300-inverted: #eeeeee;
   --color-bg-header-100: #212121;
   --color-bg-interactive-100: #b985f6;
   --color-bg-interactive-200: rgba(255, 255, 255, 0);
@@ -69,7 +70,7 @@
   --color-success: #61af77;
   --color-text-100: #ffffff;
   --color-text-200: #cacaca;
-  --color-text-300: #323232;
+  --color-text-300: #b8b8b8;
   --color-text-400: #b8b8b8;
   --color-text-link: #54a8c9;
   --color-text-interactive-100: #212121;
@@ -78,6 +79,8 @@
   --color-text-interactive-200-selected: #ffffff;
   --color-text-interactive-200-pressed: #ffffff;
   --color-text-interactive-300: #b985f6;
+  --color-text-error: #ffffff;
+  --color-text-warning: #ffffff;
   --color-icon-100: #ffffff;
   --color-icon-200: #212121;
   --color-icon-300: #b985f6;
@@ -251,10 +254,23 @@
   --color-base-grey-900: #323232;
   --color-base-grey-950: #2a2a2a;
   --color-base-grey-050: #f6f6f6;
+  --duration-100: 70ms;
+  --duration-150: 130ms;
+  --duration-200: 160ms;
+  --duration-250: 190ms;
+  --duration-300: 220ms;
+  --duration-350: 250ms;
+  --duration-400: 300ms;
+  --easing-standard: cubic-bezier(0.45,0,0.40,1);
+  --easing-decelerated: cubic-bezier(0,0,0.40,1);
+  --easing-accelerated: cubic-bezier(0.50,0,1,1);
   --border-width-100: 1px;
   --border-width-200: 2px;
   --border-width-300: 4px;
   --border-width-400: 8px;
+  --border-width-500: 12px;
+  --border-width-600: 16px;
+  --border-width-700: 24px;
   --border-width-none: 0px;
   --font-body-font-family: 'Rubik', sans-serif;
   --font-body-size: 14px;
@@ -406,10 +422,12 @@
   --sizing-icon-200: 20px;
   --sizing-icon-300: 30px;
   --sizing-icon-400: 40px;
+  --sizing-icon-500: 60px;
   --sizing-item-100: 24px;
   --sizing-item-200: 28px;
   --sizing-item-300: 36px;
   --sizing-item-400: 48px;
+  --sizing-item-450: 52px;
   --sizing-item-500: 64px;
   --sizing-item-000: 20px;
   --shadow-100: 0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16);
