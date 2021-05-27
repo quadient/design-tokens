@@ -4,7 +4,8 @@
       "100": { "value": 10, "unit": "px" },
       "200": { "value": 20, "unit": "px" },
       "300": { "value": 30, "unit": "px" },
-      "400": { "value": 40, "unit": "px" }
+      "400": { "value": 40, "unit": "px" },
+      "500": { "value": 60, "unit": "px" }
     },
     "item": {
       "000": { "value": 20, "unit": "px" },
@@ -12,6 +13,7 @@
       "200": { "value": 28, "unit": "px" },
       "300": { "value": 36, "unit": "px" },
       "400": { "value": 48, "unit": "px" },
+      "450": { "value": 52, "unit": "px" },
       "500": { "value": 64, "unit": "px" }
     }
   }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Apr 2021 10:24:06 GMT
+ * Generated on Thu, 27 May 2021 09:23:40 GMT
  */
 
 export const Angle100 = "0deg";
@@ -22,6 +22,7 @@ export const ColorPrimaryVariant500 = "#994cf2";
 export const ColorBgUi100 = "#ffffff";
 export const ColorBgUi200 = "#f6f6f6";
 export const ColorBgUi300 = "#eeeeee";
+export const ColorBgUi300Inverted = "#323232";
 export const ColorBgHeader100 = "#ffffff";
 export const ColorBgInteractive100 = "#994cf2";
 export const ColorBgInteractive200 = "rgba(33, 33, 33, 0)";
@@ -77,6 +78,8 @@ export const ColorTextInteractive200Hover = "#212121";
 export const ColorTextInteractive200Selected = "#212121";
 export const ColorTextInteractive200Pressed = "#212121";
 export const ColorTextInteractive300 = "#994cf2";
+export const ColorTextError = "#212121";
+export const ColorTextWarning = "#212121";
 export const ColorIcon100 = "#212121";
 export const ColorIcon200 = "#ffffff";
 export const ColorIcon300 = "#994cf2";
@@ -250,10 +253,23 @@ export const ColorBaseGrey850 = "#3c3c3c";
 export const ColorBaseGrey900 = "#323232";
 export const ColorBaseGrey950 = "#2a2a2a";
 export const ColorBaseGrey050 = "#f6f6f6";
+export const Duration100 = "70ms";
+export const Duration150 = "130ms";
+export const Duration200 = "160ms";
+export const Duration250 = "190ms";
+export const Duration300 = "220ms";
+export const Duration350 = "250ms";
+export const Duration400 = "300ms";
+export const EasingStandard = "cubic-bezier(0.45,0,0.40,1)";
+export const EasingDecelerated = "cubic-bezier(0,0,0.40,1)";
+export const EasingAccelerated = "cubic-bezier(0.50,0,1,1)";
 export const BorderWidth100 = 1;
 export const BorderWidth200 = 2;
 export const BorderWidth300 = 4;
 export const BorderWidth400 = 8;
+export const BorderWidth500 = 12;
+export const BorderWidth600 = 16;
+export const BorderWidth700 = 24;
 export const BorderWidthNone = 0;
 export const FontBodyFontFamily = "'Rubik', sans-serif";
 export const FontBodySize = 14;
@@ -405,10 +421,12 @@ export const SizingIcon100 = 10;
 export const SizingIcon200 = 20;
 export const SizingIcon300 = 30;
 export const SizingIcon400 = 40;
+export const SizingIcon500 = 60;
 export const SizingItem100 = 24;
 export const SizingItem200 = 28;
 export const SizingItem300 = 36;
 export const SizingItem400 = 48;
+export const SizingItem450 = 52;
 export const SizingItem500 = 64;
 export const SizingItem000 = 20;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";

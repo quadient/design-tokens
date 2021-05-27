@@ -43,6 +43,8 @@ let source = [
   "src/angle.json",
   "src/brand.json",
   "src/colorPrimaryVariant.json",
+  "src/duration.json",
+  "src/easing.json",
   "src/color.json",
   "src/colorBase.json",
   "src/border.json",
