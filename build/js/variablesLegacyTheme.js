@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 27 May 2021 09:23:48 GMT
+ * Generated on Wed, 02 Jun 2021 09:58:55 GMT
  */
 
 export const Angle100 = "0deg";
@@ -306,6 +306,13 @@ export const FontStrongWeight = 400;
 export const FontStrongFontStyle = "normal";
 export const FontStrongLetterSpacing = 0;
 export const FontStrongTextTransform = "none";
+export const FontXsmallFontFamily = "'Rubik', sans-serif";
+export const FontXsmallSize = 8;
+export const FontXsmallLineHeight = "12px";
+export const FontXsmallWeight = 700;
+export const FontXsmallFontStyle = "normal";
+export const FontXsmallLetterSpacing = 0;
+export const FontXsmallTextTransform = "none";
 export const FontHeading100FontFamily = "'Quicksand', sans-serif";
 export const FontHeading100Size = 12;
 export const FontHeading100LineHeight = "20px";
@@ -417,6 +424,7 @@ export const Spacing500 = 16;
 export const Spacing600 = 24;
 export const Spacing700 = 32;
 export const Spacing800 = 48;
+export const Spacing000 = 0;
 export const SizingIcon100 = 10;
 export const SizingIcon200 = 20;
 export const SizingIcon300 = 30;

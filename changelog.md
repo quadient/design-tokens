@@ -1,3 +1,9 @@
+# 0.0.7
+## Added
+- new tokens:
+  `spacing-000`,
+  `font-xsmall-*`
+
 # 0.0.6
 ## Added
 - new tokens:

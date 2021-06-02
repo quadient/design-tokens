@@ -1,5 +1,6 @@
 {
   "spacing": {
+    "000": { "value": 0, "unit": "px" },
     "100": { "value": 2, "unit": "px" },
     "200": { "value": 4, "unit": "px" },
     "300": { "value": 8, "unit": "px" },
