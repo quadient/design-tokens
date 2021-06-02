@@ -45,6 +45,15 @@
       "letterSpacing": { "value": 0, "unit": "px" },
       "textTransform": { "value": "none" }
     },
+    "xsmall": {
+      "fontFamily": { "value": "'Rubik', sans-serif" },
+      "size": { "value": 8, "unit": "px" },
+      "lineHeight": { "value": "12px" },
+      "weight": { "value": 700 },
+      "font-style": { "value": "normal" },
+      "letterSpacing": { "value": 0, "unit": "px" },
+      "textTransform": { "value": "none" }
+    },
     "heading": {
       "100": {
         "fontFamily": { "value": "'Quicksand', sans-serif" },
