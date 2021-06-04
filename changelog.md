@@ -1,3 +1,10 @@
+# 0.0.8
+## Added
+- new token `color-chart-grey-100`
+
+## Fixed
+- value of `color-text-400` token for dark theme
+
 # 0.0.7
 ## Added
 - new tokens:
