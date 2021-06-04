@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 02 Jun 2021 09:58:51 GMT
+ * Generated on Fri, 04 Jun 2021 13:23:41 GMT
  */
 
 export const Angle100 = "0deg";
@@ -70,7 +70,7 @@ export const ColorSuccess = "#61af77";
 export const ColorText100 = "#ffffff";
 export const ColorText200 = "#cacaca";
 export const ColorText300 = "#b8b8b8";
-export const ColorText400 = "#b8b8b8";
+export const ColorText400 = "#212121";
 export const ColorTextLink = "#54a8c9";
 export const ColorTextInteractive100 = "#212121";
 export const ColorTextInteractive200 = "#ffffff";
@@ -113,6 +113,7 @@ export const ColorChartLightBlue500 = "#037fb0";
 export const ColorChartLightBlue300 = "#0d6182";
 export const ColorChartGrey500 = "#ffffff";
 export const ColorChartGrey300 = "#cacaca";
+export const ColorChartGrey100 = "#454545";
 export const ColorChartAmethystViolet500 = "#994cf2";
 export const ColorChartAmethystViolet300 = "#723eaf";
 export const ColorChartLavenderViolet500 = "#7462e9";

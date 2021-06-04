@@ -357,6 +357,9 @@
       "grey300": {
         "value": "{color.base.grey.700.value}"
       },
+      "grey100": {
+        "value": "{color.base.grey.200.value}"
+      },
       "amethyst-violet500": {
         "value": "{color.base.amethyst-violet.500.value}"
       },

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 02 Jun 2021 09:58:55 GMT
+ * Generated on Fri, 04 Jun 2021 13:23:45 GMT
  */
 
 export const Angle100 = "0deg";
@@ -113,6 +113,7 @@ export const ColorChartLightBlue500 = "#037fb0";
 export const ColorChartLightBlue300 = "#54a8c9";
 export const ColorChartGrey500 = "#212121";
 export const ColorChartGrey300 = "#565656";
+export const ColorChartGrey100 = "#dbdbdb";
 export const ColorChartAmethystViolet500 = "#994cf2";
 export const ColorChartAmethystViolet300 = "#b985f6";
 export const ColorChartLavenderViolet500 = "#7462e9";
