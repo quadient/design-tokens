@@ -8,7 +8,11 @@
       "500": { "value": 60, "unit": "px" }
     },
     "item": {
-      "000": { "value": 20, "unit": "px" },
+      "020": { "value": 4, "unit": "px" },
+      "030": { "value": 8, "unit": "px" },
+      "040": { "value": 12, "unit": "px" },
+      "050": { "value": 16, "unit": "px" },
+      "075": { "value": 20, "unit": "px" },
       "100": { "value": 24, "unit": "px" },
       "200": { "value": 28, "unit": "px" },
       "300": { "value": 36, "unit": "px" },

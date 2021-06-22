@@ -175,13 +175,17 @@
       },
       "switch": {
         "positive": {
-          "value": "{color.primary.value}"
+          "value": 1,
+          "color": "{color.primary.value}",
+          "opacity": "{opacity.base.200.value}"
         },
         "negative": {
-          "value": "{color.base.grey.500.value}"
+          "value": 1,
+          "color": "{color.base.grey1000.value}",
+          "opacity": "{opacity.base.200.value}"
         },
         "handle-positive": {
-          "value": "{color.base.white.value}"
+          "value": "{color.primary.value}"
         },
         "handle-negative": {
           "value": "{color.base.white.value}"
@@ -262,6 +266,12 @@
       },
       "400": {
         "value": "{color.base.grey.500.value}"
+      },
+      "info": {
+        "value": "{color.base.ocean-blue.500.value}"
+      },
+      "success": {
+        "value": "{color.base.emerald-green.500.value}"
       },
       "error": {
         "value": "{color.base.red.500.value}"
