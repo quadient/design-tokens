@@ -18,6 +18,15 @@
       "letterSpacing": { "value": 0, "unit": "px" },
       "textTransform": { "value": "none" }
     },
+    "note": {
+      "fontFamily": { "value": "'Rubik', sans-serif" },
+      "size": { "value": 12, "unit": "px" },
+      "lineHeight": { "value": "16px" },
+      "weight": { "value": 400 },
+      "font-style": { "value": "normal" },
+      "letterSpacing": { "value": 0, "unit": "px" },
+      "textTransform": { "value": "none" }
+    },
     "code": {
       "fontFamily": { "value": "'Droid Sans Mono', sans-serif" },
       "size": { "value": 12, "unit": "px" },

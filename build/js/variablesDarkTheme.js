@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 04 Jun 2021 13:23:41 GMT
+ * Generated on Tue, 22 Jun 2021 08:13:28 GMT
  */
 
 export const Angle100 = "0deg";
@@ -59,9 +59,9 @@ export const ColorBgTabSelected = "rgba(255, 255, 255, 0)";
 export const ColorBgInput = "#212121";
 export const ColorBgInputError = "#212121";
 export const ColorBgInputWarning = "#212121";
-export const ColorBgSwitchPositive = "#b985f6";
-export const ColorBgSwitchNegative = "#909090";
-export const ColorBgSwitchHandlePositive = "#212121";
+export const ColorBgSwitchPositive = "rgba(185, 133, 246, 0.16)";
+export const ColorBgSwitchNegative = "rgba(255, 255, 255, 0.16)";
+export const ColorBgSwitchHandlePositive = "#b985f6";
 export const ColorBgSwitchHandleNegative = "#212121";
 export const ColorError = "#e77878";
 export const ColorWarning = "#f1a052";
@@ -87,6 +87,8 @@ export const ColorIcon400 = "#909090";
 export const ColorIcon100Hover = "#ffffff";
 export const ColorIcon100Selected = "#ffffff";
 export const ColorIcon100Pressed = "#ffffff";
+export const ColorIconInfo = "#54a8c9";
+export const ColorIconSuccess = "#61af77";
 export const ColorIconError = "#e77878";
 export const ColorIconWarning = "#f1a052";
 export const ColorBorder100 = "#ffffff";
@@ -286,6 +288,13 @@ export const FontLabelWeight = 400;
 export const FontLabelFontStyle = "normal";
 export const FontLabelLetterSpacing = 0;
 export const FontLabelTextTransform = "none";
+export const FontNoteFontFamily = "'Rubik', sans-serif";
+export const FontNoteSize = 12;
+export const FontNoteLineHeight = "16px";
+export const FontNoteWeight = 400;
+export const FontNoteFontStyle = "normal";
+export const FontNoteLetterSpacing = 0;
+export const FontNoteTextTransform = "none";
 export const FontCodeFontFamily = "'Droid Sans Mono', sans-serif";
 export const FontCodeSize = 12;
 export const FontCodeLineHeight = "20px";
@@ -437,7 +446,11 @@ export const SizingItem300 = 36;
 export const SizingItem400 = 48;
 export const SizingItem450 = 52;
 export const SizingItem500 = 64;
-export const SizingItem000 = 20;
+export const SizingItem020 = 4;
+export const SizingItem030 = 8;
+export const SizingItem040 = 12;
+export const SizingItem050 = 16;
+export const SizingItem075 = 20;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";
 export const Shadow200 = "0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16)";
 export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16)";

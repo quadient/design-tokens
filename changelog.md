@@ -1,3 +1,25 @@
+# 0.0.9
+## Changed
+- removed token `sizing-item-000` use `sizing-item-075` instead
+
+## Fixed
+- value of 
+  `color-bg-switch-handle-positive`
+  `color-bg-switch-positive`
+  `color-bg-switch-negative`
+
+## Added
+- new tokens:
+  `sizing-item-020`
+  `sizing-item-030`
+  `sizing-item-040`
+  `sizing-item-050`
+  `sizing-item-075`
+  `sizing-item-100`
+  `color-icon-info`
+  `color-icon-success`
+  `font-note`
+
 # 0.0.8
 ## Added
 - new token `color-chart-grey-100`

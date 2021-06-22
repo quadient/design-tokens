@@ -164,14 +164,10 @@
         "value": "{color.base.grey1000.value}"
       },
       "switch": {
-        "positive": {
-          "value": "{color.primary.value}"
-        },
         "negative": {
-          "value": "{color.base.grey.500.value}"
-        },
-        "handle-positive": {
-          "value": "{color.base.grey1000.value}"
+          "value": 1,
+          "color": "{color.base.white.value}",
+          "opacity": "{opacity.base.200.value}"
         },
         "handle-negative": {
           "value": "{color.base.grey1000.value}"
@@ -252,6 +248,12 @@
       },
       "400": {
         "value": "{color.base.grey.500.value}"
+      },
+      "info": {
+        "value": "{color.base.ocean-blue.300.value}"
+      },
+      "success": {
+        "value": "{color.base.emerald-green.300.value}"
       },
       "error": {
         "value": "{color.base.red.300.value}"
