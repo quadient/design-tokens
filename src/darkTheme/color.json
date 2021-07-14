@@ -172,6 +172,18 @@
         "handle-negative": {
           "value": "{color.base.grey1000.value}"
         }
+      },
+      "bg-error-100": {
+        "value": "{color.base.red.900.value}"
+      },
+      "bg-warning-100": {
+        "value": "{color.base.orange.900.value}"
+      },
+      "bg-success-100": {
+        "value": "{color.base.emerald-green.900.value}"
+      },
+      "bg-info-100": {
+        "value": "{color.base.ocean-blue.900.value}"
       }
     },
     "error": {

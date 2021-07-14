@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 22 Jun 2021 08:13:32 GMT
+ * Generated on Wed, 14 Jul 2021 09:26:50 GMT
  */
 
 export const Angle100 = "0deg";
@@ -63,6 +63,10 @@ export const ColorBgSwitchPositive = "rgba(153, 76, 242, 0.16)";
 export const ColorBgSwitchNegative = "rgba(33, 33, 33, 0.16)";
 export const ColorBgSwitchHandlePositive = "#994cf2";
 export const ColorBgSwitchHandleNegative = "#ffffff";
+export const ColorBgBgError100 = "#fdefef";
+export const ColorBgBgWarning100 = "#fef4eb";
+export const ColorBgBgSuccess100 = "#edf6ef";
+export const ColorBgBgInfo100 = "#ebf5f9";
 export const ColorError = "#dc3838";
 export const ColorWarning = "#ea7400";
 export const ColorInfo = "#037fb0";
@@ -451,6 +455,14 @@ export const SizingItem030 = 8;
 export const SizingItem040 = 12;
 export const SizingItem050 = 16;
 export const SizingItem075 = 20;
+export const SizingSpinner100 = 88;
+export const SizingSpinner200 = 104;
+export const SizingSpinner300 = 120;
+export const SizingSpinner400 = 136;
+export const SizingSpinner500 = 152;
+export const SizingSpinner600 = 168;
+export const SizingSpinner700 = 184;
+export const SizingSpinner800 = 200;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";
 export const Shadow200 = "0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16)";
 export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16)";
