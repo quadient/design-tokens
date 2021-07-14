@@ -191,16 +191,16 @@
           "value": "{color.base.white.value}"
         }
       },
-      "bg-error-100": {
+      "error-100": {
         "value": "{color.base.red.100.value}"
       },
-      "bg-warning-100": {
+      "warning-100": {
         "value": "{color.base.orange.100.value}"
       },
-      "bg-success-100": {
+      "success-100": {
         "value": "{color.base.emerald-green.100.value}"
       },
-      "bg-info-100": {
+      "info-100": {
         "value": "{color.base.ocean-blue.100.value}"
       }
     },

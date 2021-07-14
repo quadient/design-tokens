@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Jul 2021 09:26:42 GMT
+ * Generated on Wed, 14 Jul 2021 12:06:40 GMT
  */
 
 export const Angle100 = "0deg";
@@ -63,10 +63,10 @@ export const ColorBgSwitchPositive = "rgba(153, 76, 242, 0.16)";
 export const ColorBgSwitchNegative = "rgba(33, 33, 33, 0.16)";
 export const ColorBgSwitchHandlePositive = "#994cf2";
 export const ColorBgSwitchHandleNegative = "#ffffff";
-export const ColorBgBgError100 = "#fdefef";
-export const ColorBgBgWarning100 = "#fef4eb";
-export const ColorBgBgSuccess100 = "#edf6ef";
-export const ColorBgBgInfo100 = "#ebf5f9";
+export const ColorBgError100 = "#fdefef";
+export const ColorBgWarning100 = "#fef4eb";
+export const ColorBgSuccess100 = "#edf6ef";
+export const ColorBgInfo100 = "#ebf5f9";
 export const ColorError = "#dc3838";
 export const ColorWarning = "#ea7400";
 export const ColorInfo = "#037fb0";
