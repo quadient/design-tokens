@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 22 Jun 2021 08:13:31 GMT
+ * Generated on Wed, 14 Jul 2021 09:26:49 GMT
  */
 
 :root {
@@ -64,6 +64,10 @@
   --color-bg-switch-negative: rgba(33, 33, 33, 0.16);
   --color-bg-switch-handle-positive: #994cf2;
   --color-bg-switch-handle-negative: #ffffff;
+  --color-bg-bg-error-100: #fdefef;
+  --color-bg-bg-warning-100: #fef4eb;
+  --color-bg-bg-success-100: #edf6ef;
+  --color-bg-bg-info-100: #ebf5f9;
   --color-error: #dc3838;
   --color-warning: #ea7400;
   --color-info: #037fb0;
@@ -452,6 +456,14 @@
   --sizing-item-040: 12px;
   --sizing-item-050: 16px;
   --sizing-item-075: 20px;
+  --sizing-spinner-100: 88px;
+  --sizing-spinner-200: 104px;
+  --sizing-spinner-300: 120px;
+  --sizing-spinner-400: 136px;
+  --sizing-spinner-500: 152px;
+  --sizing-spinner-600: 168px;
+  --sizing-spinner-700: 184px;
+  --sizing-spinner-800: 200px;
   --shadow-100: 0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16);
   --shadow-200: 0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16);
   --shadow-300: 0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16);

@@ -19,6 +19,16 @@
       "400": { "value": 48, "unit": "px" },
       "450": { "value": 52, "unit": "px" },
       "500": { "value": 64, "unit": "px" }
+    },
+    "spinner": {
+      "100": { "value": 88, "unit": "px" },
+      "200": { "value": 104, "unit": "px" },
+      "300": { "value": 120, "unit": "px" },
+      "400": { "value": 136, "unit": "px" },
+      "500": { "value": 152, "unit": "px" },
+      "600": { "value": 168, "unit": "px" },
+      "700": { "value": 184, "unit": "px" },
+      "800": { "value": 200, "unit": "px" }
     }
   }
 }

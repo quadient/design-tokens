@@ -1,3 +1,19 @@
+# 0.0.10
+## Added
+- new tokens:
+  `sizing-spinner-100`
+  `sizing-spinner-200`
+  `sizing-spinner-300`
+  `sizing-spinner-400`
+  `sizing-spinner-500`
+  `sizing-spinner-600`
+  `sizing-spinner-700`
+  `sizing-spinner-800`
+  `color-bg-error-100`
+  `color-bg-warning-100`
+  `color-bg-info-100`
+  `color-bg-success-100`
+
 # 0.0.9
 ## Changed
 - removed token `sizing-item-000` use `sizing-item-075` instead
