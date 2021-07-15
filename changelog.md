@@ -1,3 +1,11 @@
+# 0.0.11
+## Fixed
+- token names (remove doubled bg prefix):
+  `color-bg-error-100`
+  `color-bg-warning-100`
+  `color-bg-info-100`
+  `color-bg-success-100`
+
 # 0.0.10
 ## Added
 - new tokens:
