@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 14 Jul 2021 12:06:42 GMT
+// Generated on Fri, 16 Jul 2021 09:34:36 GMT
 
 $angle-100: 0deg;
 $angle-200: 45deg;
@@ -266,6 +266,11 @@ $duration-250: 190ms;
 $duration-300: 220ms;
 $duration-350: 250ms;
 $duration-400: 300ms;
+$duration-500: 500ms;
+$duration-550: 700ms;
+$duration-600: 1000ms;
+$duration-700: 3000ms;
+$duration-800: 5000ms;
 $easing-standard: cubic-bezier(0.45,0,0.40,1);
 $easing-decelerated: cubic-bezier(0,0,0.40,1);
 $easing-accelerated: cubic-bezier(0.50,0,1,1);
@@ -462,6 +467,7 @@ $sizing-spinner-500: 152px;
 $sizing-spinner-600: 168px;
 $sizing-spinner-700: 184px;
 $sizing-spinner-800: 200px;
+$sizing-spinner-050: 72px;
 $shadow-100: 0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16);
 $shadow-200: 0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16);
 $shadow-300: 0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16);
@@ -469,3 +475,6 @@ $shadow-400: 0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.16);
 $shadow-500: 0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16);
 $shadow-600: 0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16);
 $shadow-none: none;
+$shadow-focus-100: 0px 0px 1px 1px #b985f6;
+$shadow-focus-error: 0px 0px 1px 1px  #e77878;
+$shadow-focus-warning: 0px 0px 1px 1px #f1a052;
