@@ -1,3 +1,16 @@
+# 0.0.12
+## Added
+- new tokens:
+  `duration-500`
+  `duration-550`
+  `duration-600`
+  `duration-700`
+  `duration-800`
+  `shadow-focus-100`
+  `shadow-focus-error`
+  `shadow-focus-warning`
+  `sizing-spinner-050`
+
 # 0.0.11
 ## Fixed
 - token names (remove doubled bg prefix):

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Jul 2021 12:06:40 GMT
+ * Generated on Fri, 16 Jul 2021 09:34:34 GMT
  */
 
 export const Angle100 = "0deg";
@@ -267,6 +267,11 @@ export const Duration250 = "190ms";
 export const Duration300 = "220ms";
 export const Duration350 = "250ms";
 export const Duration400 = "300ms";
+export const Duration500 = "500ms";
+export const Duration550 = "700ms";
+export const Duration600 = "1000ms";
+export const Duration700 = "3000ms";
+export const Duration800 = "5000ms";
 export const EasingStandard = "cubic-bezier(0.45,0,0.40,1)";
 export const EasingDecelerated = "cubic-bezier(0,0,0.40,1)";
 export const EasingAccelerated = "cubic-bezier(0.50,0,1,1)";
@@ -463,6 +468,7 @@ export const SizingSpinner500 = 152;
 export const SizingSpinner600 = 168;
 export const SizingSpinner700 = 184;
 export const SizingSpinner800 = 200;
+export const SizingSpinner050 = 72;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";
 export const Shadow200 = "0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16)";
 export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16)";
@@ -470,3 +476,6 @@ export const Shadow400 = "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0
 export const Shadow500 = "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)";
 export const Shadow600 = "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)";
 export const ShadowNone = "none";
+export const ShadowFocus100 = "0px 0px 1px 1px #994cf2";
+export const ShadowFocusError = "0px 0px 1px 1px  #dc3838";
+export const ShadowFocusWarning = "0px 0px 1px 1px #ea7400";

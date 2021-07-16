@@ -263,6 +263,11 @@
   "Duration300": "220ms",
   "Duration350": "250ms",
   "Duration400": "300ms",
+  "Duration500": "500ms",
+  "Duration550": "700ms",
+  "Duration600": "1000ms",
+  "Duration700": "3000ms",
+  "Duration800": "5000ms",
   "EasingStandard": "cubic-bezier(0.45,0,0.40,1)",
   "EasingDecelerated": "cubic-bezier(0,0,0.40,1)",
   "EasingAccelerated": "cubic-bezier(0.50,0,1,1)",
@@ -459,11 +464,15 @@
   "SizingSpinner600": 168,
   "SizingSpinner700": 184,
   "SizingSpinner800": 200,
+  "SizingSpinner050": 72,
   "Shadow100": "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)",
   "Shadow200": "0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16)",
   "Shadow300": "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16)",
   "Shadow400": "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.16)",
   "Shadow500": "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)",
   "Shadow600": "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)",
-  "ShadowNone": "none"
+  "ShadowNone": "none",
+  "ShadowFocus100": "0px 0px 1px 1px #994cf2",
+  "ShadowFocusError": "0px 0px 1px 1px  #dc3838",
+  "ShadowFocusWarning": "0px 0px 1px 1px #ea7400"
 }

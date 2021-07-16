@@ -21,6 +21,7 @@
       "500": { "value": 64, "unit": "px" }
     },
     "spinner": {
+      "050": { "value": 72, "unit": "px" },
       "100": { "value": 88, "unit": "px" },
       "200": { "value": 104, "unit": "px" },
       "300": { "value": 120, "unit": "px" },
