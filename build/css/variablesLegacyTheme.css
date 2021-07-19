@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jul 2021 09:34:41 GMT
+ * Generated on Mon, 19 Jul 2021 13:51:36 GMT
  */
 
 :root {
@@ -477,7 +477,7 @@
   --shadow-500: 0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16);
   --shadow-600: 0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16);
   --shadow-none: none;
-  --shadow-focus-100: 0px 0px 1px 1px #994cf2;
-  --shadow-focus-error: 0px 0px 1px 1px  #dc3838;
-  --shadow-focus-warning: 0px 0px 1px 1px #ea7400;
+  --shadow-focus-100: 0px 0px 0px 1px #994cf2;
+  --shadow-focus-error: 0px 0px 0px 1px  #dc3838;
+  --shadow-focus-warning: 0px 0px 0px 1px #ea7400;
 }

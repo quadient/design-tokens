@@ -472,7 +472,7 @@
   "Shadow500": "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)",
   "Shadow600": "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)",
   "ShadowNone": "none",
-  "ShadowFocus100": "0px 0px 1px 1px #b985f6",
-  "ShadowFocusError": "0px 0px 1px 1px  #e77878",
-  "ShadowFocusWarning": "0px 0px 1px 1px #f1a052"
+  "ShadowFocus100": "0px 0px 0px 1px #b985f6",
+  "ShadowFocusError": "0px 0px 0px 1px  #e77878",
+  "ShadowFocusWarning": "0px 0px 0px 1px #f1a052"
 }
