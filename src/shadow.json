@@ -22,13 +22,13 @@
       "value": "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)"
     },
     "focus-100": {
-      "value": "0px 0px 1px 1px {color.border.500.value}"
+      "value": "0px 0px 0px 1px {color.border.500.value}"
     },
     "focus-error": {
-      "value": "0px 0px 1px 1px  {color.border.error.value}"
+      "value": "0px 0px 0px 1px  {color.border.error.value}"
     },
     "focus-warning": {
-      "value": "0px 0px 1px 1px {color.border.warning.value}"
+      "value": "0px 0px 0px 1px {color.border.warning.value}"
     }
   }
 }

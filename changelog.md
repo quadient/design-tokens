@@ -1,3 +1,10 @@
+# 0.0.13
+## Fixed
+- new tokens:
+  `focus-100`
+  `focus-error`
+  `focus-warning`
+
 # 0.0.12
 ## Added
 - new tokens:
