@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jul 2021 09:34:38 GMT
+ * Generated on Mon, 19 Jul 2021 13:51:32 GMT
  */
 
 export const Angle100 = "0deg";
@@ -476,6 +476,6 @@ export const Shadow400 = "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0
 export const Shadow500 = "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)";
 export const Shadow600 = "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)";
 export const ShadowNone = "none";
-export const ShadowFocus100 = "0px 0px 1px 1px #b985f6";
-export const ShadowFocusError = "0px 0px 1px 1px  #e77878";
-export const ShadowFocusWarning = "0px 0px 1px 1px #f1a052";
+export const ShadowFocus100 = "0px 0px 0px 1px #b985f6";
+export const ShadowFocusError = "0px 0px 0px 1px  #e77878";
+export const ShadowFocusWarning = "0px 0px 0px 1px #f1a052";
