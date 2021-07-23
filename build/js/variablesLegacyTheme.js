@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Jul 2021 13:51:37 GMT
+ * Generated on Thu, 22 Jul 2021 14:27:50 GMT
  */
 
 export const Angle100 = "0deg";
@@ -469,6 +469,8 @@ export const SizingSpinner600 = 168;
 export const SizingSpinner700 = 184;
 export const SizingSpinner800 = 200;
 export const SizingSpinner050 = 72;
+export const SizingDeviceDesktop = 1280;
+export const SizingDeviceDesktopLarge = 1440;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";
 export const Shadow200 = "0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16)";
 export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16)";

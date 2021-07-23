@@ -30,6 +30,10 @@
       "600": { "value": 168, "unit": "px" },
       "700": { "value": 184, "unit": "px" },
       "800": { "value": 200, "unit": "px" }
+    },
+    "device": {
+      "desktop": { "value": 1280, "unit": "px" },
+      "desktop-large": { "value": 1440, "unit": "px" }
     }
   }
 }

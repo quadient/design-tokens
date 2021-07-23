@@ -1,3 +1,9 @@
+# 0.0.14
+## Added
+- new tokens:
+  `sizing-device-desktop: 1280px`
+  `sizing-device-desktop-large: 1440px`
+  
 # 0.0.13
 ## Fixed
 - new tokens:
