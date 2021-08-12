@@ -1,3 +1,7 @@
+# 0.0.15
+## Fixed
+- changed value of token `legacyTheme/strong/size` from 14px to 13px
+
 # 0.0.14
 ## Added
 - new tokens:

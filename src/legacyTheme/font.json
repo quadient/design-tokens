@@ -13,7 +13,7 @@
     },
     "strong": {
       "fontFamily": { "value": "'Open Sans', sans-serif" },
-      "size": { "value": 14, "unit": "px" },
+      "size": { "value": 13, "unit": "px" },
       "weight": { "value": 400 }
     },
     "heading": {

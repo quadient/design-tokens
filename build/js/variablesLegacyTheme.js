@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 22 Jul 2021 14:27:50 GMT
+ * Generated on Thu, 12 Aug 2021 05:45:41 GMT
  */
 
 export const Angle100 = "0deg";
@@ -319,7 +319,7 @@ export const FontPlaceholderFontStyle = "italic";
 export const FontPlaceholderLetterSpacing = 0;
 export const FontPlaceholderTextTransform = "none";
 export const FontStrongFontFamily = "'Open Sans', sans-serif";
-export const FontStrongSize = 14;
+export const FontStrongSize = 13;
 export const FontStrongLineHeight = "20px";
 export const FontStrongWeight = 400;
 export const FontStrongFontStyle = "normal";
