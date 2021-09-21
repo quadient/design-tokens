@@ -1,3 +1,29 @@
+# 0.0.16
+## Added
+- new tokens:
+  `SizingModal100`
+  `SizingModal150 `
+  `SizingModal200 `
+  `SizingModal300 `
+  `ColorBrandDefault100`
+  `ColorBrandDefault200`
+  `ColorBrandContentAuthor100`
+  `ColorBrandContentAuthor200`
+  `ColorBrandDigitalServices100`
+  `ColorBrandDigitalServices200`
+  `ColorBrandFrontOffice100`
+  `ColorBrandFrontOffice200`
+  `ColorBrandInspire100`
+  `ColorBrandInspire200`
+  `ColorBrandMessenger100`
+  `ColorBrandMessenger200`
+  `ColorBrandOmnichannel100`
+  `ColorBrandOmnichannel200`
+  `ColorBrandOnDemand100`
+  `ColorBrandOnDemand200`
+
+- ColorBrand100 and ColorBrand200 tokens used ColorBrandDefault100 and ColorBrandDefault200 tokens as values, so there is new brandDefault.json file
+
 # 0.0.15
 ## Fixed
 - changed value of token `legacyTheme/strong/size` from 14px to 13px

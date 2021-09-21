@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Thu, 12 Aug 2021 05:45:38 GMT
+// Generated on Tue, 21 Sep 2021 12:11:13 GMT
 
 $angle-100: 0deg;
 $angle-200: 45deg;
@@ -10,9 +10,25 @@ $angle-500: 180deg;
 $angle-600: 225deg;
 $angle-700: 270deg;
 $angle-800: 315deg;
+$color-brand-default-100: #2a76d7;
+$color-brand-default-200: #275b9c;
 $color-primary: #994cf2; // Allowed value is one from: #168936, #037fb0, #2a76d7, #7462e9, #994cf2 
 $color-brand-100: #2a76d7;
 $color-brand-200: #275b9c; // This color is used in gradients.
+$color-brand-content-author-100: #7536f0;
+$color-brand-content-author-200: #d6084d;
+$color-brand-digital-services-100: #7536f0;
+$color-brand-digital-services-200: #05b9f0;
+$color-brand-front-office-100: #d6084d;
+$color-brand-front-office-200: #ff4200;
+$color-brand-inspire-100: #ff4200;
+$color-brand-inspire-200: #d9fa4f;
+$color-brand-messenger-100: #05b9f0;
+$color-brand-messenger-200: #d9fa4f;
+$color-brand-omnichannel-100: #7536f0;
+$color-brand-omnichannel-200: #ff4200;
+$color-brand-on-demand-100: #72bf44;
+$color-brand-on-demand-200: #05b9f0;
 $color-primary-variant-100: #168936;
 $color-primary-variant-200: #037fb0;
 $color-primary-variant-300: #2a76d7;
@@ -470,6 +486,10 @@ $sizing-spinner-800: 200px;
 $sizing-spinner-050: 72px;
 $sizing-device-desktop: 1280px;
 $sizing-device-desktop-large: 1440px;
+$sizing-modal-100: 400px;
+$sizing-modal-150: 504px;
+$sizing-modal-200: 608px;
+$sizing-modal-300: 816px;
 $shadow-100: 0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16);
 $shadow-200: 0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16);
 $shadow-300: 0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16);

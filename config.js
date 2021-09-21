@@ -41,6 +41,7 @@ StyleDictionary.registerAction({
 
 let source = [
   "src/angle.json",
+  "src/brandDefault.json",
   "src/brand.json",
   "src/colorPrimaryVariant.json",
   "src/duration.json",

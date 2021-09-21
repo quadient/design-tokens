@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 12 Aug 2021 05:45:30 GMT
+ * Generated on Tue, 21 Sep 2021 12:11:04 GMT
  */
 
 export const Angle100 = "0deg";
@@ -11,9 +11,25 @@ export const Angle500 = "180deg";
 export const Angle600 = "225deg";
 export const Angle700 = "270deg";
 export const Angle800 = "315deg";
+export const ColorBrandDefault100 = "#2a76d7";
+export const ColorBrandDefault200 = "#275b9c";
 export const ColorPrimary = "#994cf2"; // Allowed value is one from: #168936, #037fb0, #2a76d7, #7462e9, #994cf2 
 export const ColorBrand100 = "#2a76d7";
 export const ColorBrand200 = "#275b9c"; // This color is used in gradients.
+export const ColorBrandContentAuthor100 = "#7536f0";
+export const ColorBrandContentAuthor200 = "#d6084d";
+export const ColorBrandDigitalServices100 = "#7536f0";
+export const ColorBrandDigitalServices200 = "#05b9f0";
+export const ColorBrandFrontOffice100 = "#d6084d";
+export const ColorBrandFrontOffice200 = "#ff4200";
+export const ColorBrandInspire100 = "#ff4200";
+export const ColorBrandInspire200 = "#d9fa4f";
+export const ColorBrandMessenger100 = "#05b9f0";
+export const ColorBrandMessenger200 = "#d9fa4f";
+export const ColorBrandOmnichannel100 = "#7536f0";
+export const ColorBrandOmnichannel200 = "#ff4200";
+export const ColorBrandOnDemand100 = "#72bf44";
+export const ColorBrandOnDemand200 = "#05b9f0";
 export const ColorPrimaryVariant100 = "#168936";
 export const ColorPrimaryVariant200 = "#037fb0";
 export const ColorPrimaryVariant300 = "#2a76d7";
@@ -471,6 +487,10 @@ export const SizingSpinner800 = 200;
 export const SizingSpinner050 = 72;
 export const SizingDeviceDesktop = 1280;
 export const SizingDeviceDesktopLarge = 1440;
+export const SizingModal100 = 400;
+export const SizingModal150 = 504;
+export const SizingModal200 = 608;
+export const SizingModal300 = 816;
 export const Shadow100 = "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)";
 export const Shadow200 = "0 4px 6px 0 rgba(0,0,0,0.24), 0 2px 6px 0 rgba(0,0,0,0.16)";
 export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0.16)";
