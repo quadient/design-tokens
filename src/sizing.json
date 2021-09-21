@@ -34,6 +34,12 @@
     "device": {
       "desktop": { "value": 1280, "unit": "px" },
       "desktop-large": { "value": 1440, "unit": "px" }
+    },
+    "modal": {
+      "100": { "value": 400, "unit": "px" },
+      "150": { "value": 504, "unit": "px" },
+      "200": { "value": 608, "unit": "px" },
+      "300": { "value": 816, "unit": "px" }
     }
   }
 }

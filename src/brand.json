@@ -5,8 +5,22 @@
       "comment": "Allowed value is one from: {color.primaryVariant.100.value}, {color.primaryVariant.200.value}, {color.primaryVariant.300.value}, {color.primaryVariant.400.value}, {color.primaryVariant.500.value} "
     },
     "brand": {
-      "100" : {"value": "#2A76D7"},
-      "200" : {"value": "#275B9C", "comment": "This color is used in gradients."}
+      "100" : {"value": "{color.brandDefault.100.value}"},
+      "200" : {"value": "{color.brandDefault.200.value}", "comment": "This color is used in gradients."},
+      "content-author-100" : {"value": "#7536F0"},
+      "content-author-200" : {"value": "#D6084D"},
+      "digital-services-100" : {"value": "#7536F0"},
+      "digital-services-200" : {"value": "#05B9F0"},
+      "front-office-100" : {"value": "#D6084D"},
+      "front-office-200" : {"value": "#FF4200"},
+      "inspire-100" : {"value": "#FF4200"},
+      "inspire-200" : {"value": "#D9FA4F"},
+      "messenger-100" : {"value": "#05B9F0"},
+      "messenger-200" : {"value": "#D9FA4F"},
+      "omnichannel-100" : {"value": "#7536F0"},
+      "omnichannel-200" : {"value": "#FF4200"},
+      "on-demand-100" : {"value": "#72BF44"},
+      "on-demand-200" : {"value": "#05B9F0"}
     }
   }
 }
