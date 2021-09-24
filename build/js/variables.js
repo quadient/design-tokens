@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 21 Sep 2021 12:11:04 GMT
+ * Generated on Fri, 24 Sep 2021 08:01:55 GMT
  */
 
 export const Angle100 = "0deg";
@@ -30,6 +30,10 @@ export const ColorBrandOmnichannel100 = "#7536f0";
 export const ColorBrandOmnichannel200 = "#ff4200";
 export const ColorBrandOnDemand100 = "#72bf44";
 export const ColorBrandOnDemand200 = "#05b9f0";
+export const ColorBrandCjm100 = "#72bf44";
+export const ColorBrandCjm200 = "#1acfbf";
+export const ColorBrandBatchProduction100 = "#7536f0";
+export const ColorBrandBatchProduction200 = "#1acfbf";
 export const ColorPrimaryVariant100 = "#168936";
 export const ColorPrimaryVariant200 = "#037fb0";
 export const ColorPrimaryVariant300 = "#2a76d7";
