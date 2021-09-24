@@ -1,3 +1,11 @@
+# 0.0.17
+## Added
+- new tokens:
+  `ColorBrandCjm100`
+  `ColorBrandCjm200`
+  `ColorBrandBatchProduction100`
+  `ColorBrandBatchProduction200`
+
 # 0.0.16
 ## Added
 - new tokens:

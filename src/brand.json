@@ -20,7 +20,11 @@
       "omnichannel-100" : {"value": "#7536F0"},
       "omnichannel-200" : {"value": "#FF4200"},
       "on-demand-100" : {"value": "#72BF44"},
-      "on-demand-200" : {"value": "#05B9F0"}
+      "on-demand-200" : {"value": "#05B9F0"},
+      "cjm-100" : {"value": "#72BF44"},
+      "cjm-200" : {"value": "#1ACFBF"},
+      "batch-production-100" : {"value": "#7536F0"},
+      "batch-production-200" : {"value": "#1ACFBF"}
     }
   }
 }
