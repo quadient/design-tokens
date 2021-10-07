@@ -1,5 +1,9 @@
 {
   "opacity": {
-    "disabled": { "value": "{opacity.base.400.value}" }
+    "disabled": { "value": "{opacity.base.400.value}" },
+    "interactive-default": { "value": "{opacity.base.1000.value}" },
+    "interactive-hover": { "value": "{opacity.base.900.value}" },
+    "interactive-selected": { "value": "{opacity.base.850.value}" },
+    "interactive-pressed": { "value": "{opacity.base.800.value}" }
   }
 }
