@@ -1,3 +1,25 @@
+# 0.0.18
+## Added
+- new tokens:
+  `sizing-item-035`
+  `sizing-item-250`
+  `sizing-item-350`
+  `sizing-item-450`
+  `sizing-item-480`
+  `sizing-item-600`
+  `sizing-item-620`
+  `sizing-item-680`
+  `sizing-item-700`
+  `sizing-item-750`
+  `sizing-item-780`
+  `sizing-item-800`
+  `sizing-item-850`
+  `sizing-item-900`
+  `opacity-interactive-default`
+  `opacity-interactive-hover`
+  `opacity-interactive-selected`
+  `opacity-interactive-pressed`
+
 # 0.0.17
 ## Added
 - new tokens:

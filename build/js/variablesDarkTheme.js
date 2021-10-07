@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Sep 2021 08:02:00 GMT
+ * Generated on Thu, 07 Oct 2021 06:52:07 GMT
  */
 
 export const Angle100 = "0deg";
@@ -426,6 +426,10 @@ export const GradientAppHeaderLogo = "transparent linear-gradient(45deg, #2a76d7
 export const GradientAppHeaderStripe = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
 export const GradientAppSigninBg = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
 export const OpacityDisabled = 0.32;
+export const OpacityInteractiveDefault = 1;
+export const OpacityInteractiveHover = 0.92;
+export const OpacityInteractiveSelected = 0.88;
+export const OpacityInteractivePressed = 0.84;
 export const OpacityBase100 = 0.08;
 export const OpacityBase150 = 0.12;
 export const OpacityBase200 = 0.16;
@@ -471,12 +475,25 @@ export const SizingIcon400 = 40;
 export const SizingIcon500 = 60;
 export const SizingItem100 = 24;
 export const SizingItem200 = 28;
+export const SizingItem250 = 32;
 export const SizingItem300 = 36;
+export const SizingItem350 = 40;
 export const SizingItem400 = 48;
 export const SizingItem450 = 52;
+export const SizingItem480 = 60;
 export const SizingItem500 = 64;
+export const SizingItem600 = 128;
+export const SizingItem620 = 160;
+export const SizingItem680 = 320;
+export const SizingItem700 = 400;
+export const SizingItem750 = 608;
+export const SizingItem780 = 816;
+export const SizingItem800 = 1024;
+export const SizingItem850 = 1280;
+export const SizingItem900 = 1440;
 export const SizingItem020 = 4;
 export const SizingItem030 = 8;
+export const SizingItem035 = 10;
 export const SizingItem040 = 12;
 export const SizingItem050 = 16;
 export const SizingItem075 = 20;
