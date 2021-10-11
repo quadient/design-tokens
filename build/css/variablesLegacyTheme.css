@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 07 Oct 2021 06:52:11 GMT
+ * Generated on Mon, 11 Oct 2021 09:24:39 GMT
  */
 
 :root {
@@ -423,6 +423,13 @@
   --font-expressive-400-font-style: normal;
   --font-expressive-400-letter-spacing: 0px;
   --font-expressive-400-text-transform: none;
+  --font-specific-header-logo-font-family: 'Quicksand', sans-serif;
+  --font-specific-header-logo-size: 14px;
+  --font-specific-header-logo-line-height: 16px;
+  --font-specific-header-logo-weight: 500;
+  --font-specific-header-logo-font-style: normal;
+  --font-specific-header-logo-letter-spacing: 0px;
+  --font-specific-header-logo-text-transform: none;
   --gradient-app-header-logo: transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
   --gradient-app-header-stripe: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;
   --gradient-app-signin-bg: transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box;

@@ -1,3 +1,8 @@
+# 0.0.19
+## Added
+- new font token:
+  `font-specific-header-logo`
+  
 # 0.0.18
 ## Added
 - new tokens:
