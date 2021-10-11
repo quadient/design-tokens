@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 07 Oct 2021 06:52:03 GMT
+ * Generated on Mon, 11 Oct 2021 09:24:30 GMT
  */
 
 export const Angle100 = "0deg";
@@ -422,6 +422,13 @@ export const FontExpressive400Weight = 400;
 export const FontExpressive400FontStyle = "normal";
 export const FontExpressive400LetterSpacing = 0;
 export const FontExpressive400TextTransform = "none";
+export const FontSpecificHeaderLogoFontFamily = "'Quicksand', sans-serif";
+export const FontSpecificHeaderLogoSize = 14;
+export const FontSpecificHeaderLogoLineHeight = "16px";
+export const FontSpecificHeaderLogoWeight = 500;
+export const FontSpecificHeaderLogoFontStyle = "normal";
+export const FontSpecificHeaderLogoLetterSpacing = 0;
+export const FontSpecificHeaderLogoTextTransform = "none";
 export const GradientAppHeaderLogo = "transparent linear-gradient(45deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
 export const GradientAppHeaderStripe = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";
 export const GradientAppSigninBg = "transparent linear-gradient(90deg, #2a76d7 0%, #275b9c 100%) 0% 0% no-repeat padding-box";

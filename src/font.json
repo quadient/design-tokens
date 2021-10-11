@@ -157,6 +157,17 @@
         "letterSpacing": { "value": 0, "unit": "px" },
         "textTransform": { "value": "none" }
       }
+    },
+    "specific": {
+      "header-logo": {
+        "fontFamily": { "value": "'Quicksand', sans-serif" },
+        "size": { "value": 14, "unit": "px" },
+        "lineHeight": { "value": "16px" },
+        "weight": { "value": 500 },
+        "font-style": { "value": "normal" },
+        "letterSpacing": { "value": 0, "unit": "px" },
+        "textTransform": { "value": "none" }
+      }
     }
   }
 }
