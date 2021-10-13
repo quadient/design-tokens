@@ -120,7 +120,7 @@
   "ColorBorder700": "#212121",
   "ColorBorderError": "#e77878",
   "ColorBorderWarning": "#f1a052",
-  "ColorBorderInput": "#454545",
+  "ColorBorderInput": "#212121",
   "ColorFocus100": "rgba(33, 33, 33, 0.68)",
   "ColorFocus200": "rgba(255, 255, 255, 0.68)",
   "ColorFocus300": "rgba(185, 133, 246, 0.68)",

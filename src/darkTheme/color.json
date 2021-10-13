@@ -303,7 +303,7 @@
         "value": "{color.base.orange.300.value}"
       },
       "input": {
-        "value": "{color.base.grey.800.value}"
+        "value": "{color.base.grey1000.value}"
       }
     },
     "focus": {

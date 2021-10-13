@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Oct 2021 14:04:10 GMT
+ * Generated on Wed, 13 Oct 2021 14:45:01 GMT
  */
 
 export const Angle100 = "0deg";
@@ -124,7 +124,7 @@ export const ColorBorder600 = "#2a2a2a";
 export const ColorBorder700 = "#212121";
 export const ColorBorderError = "#e77878";
 export const ColorBorderWarning = "#f1a052";
-export const ColorBorderInput = "#454545";
+export const ColorBorderInput = "#212121";
 export const ColorFocus100 = "rgba(33, 33, 33, 0.68)";
 export const ColorFocus200 = "rgba(255, 255, 255, 0.68)";
 export const ColorFocus300 = "rgba(185, 133, 246, 0.68)";
