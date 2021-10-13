@@ -1,3 +1,7 @@
+# 0.0.20
+## Fixed
+- values of some dark theme tokens to get better visibility
+
 # 0.0.19
 ## Added
 - new font token:
