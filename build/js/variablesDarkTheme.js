@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 09:24:35 GMT
+ * Generated on Wed, 13 Oct 2021 14:45:01 GMT
  */
 
 export const Angle100 = "0deg";
@@ -39,15 +39,15 @@ export const ColorPrimaryVariant200 = "#54a8c9";
 export const ColorPrimaryVariant300 = "#6ea2e4";
 export const ColorPrimaryVariant400 = "#a094f0";
 export const ColorPrimaryVariant500 = "#b985f6";
-export const ColorBgUi100 = "#212121";
+export const ColorBgUi100 = "#3c3c3c";
 export const ColorBgUi200 = "#2a2a2a";
-export const ColorBgUi300 = "#323232";
+export const ColorBgUi300 = "#2a2a2a";
 export const ColorBgUi300Inverted = "#eeeeee";
-export const ColorBgHeader100 = "#212121";
+export const ColorBgHeader100 = "#3c3c3c";
 export const ColorBgInteractive100 = "#b985f6";
 export const ColorBgInteractive200 = "rgba(255, 255, 255, 0)";
 export const ColorBgInteractive300 = "rgba(185, 133, 246, 0)";
-export const ColorBgInteractive400 = "#212121";
+export const ColorBgInteractive400 = "#3c3c3c";
 export const ColorBgInteractive100Hover = "rgba(185, 133, 246, 0.92)";
 export const ColorBgInteractive100Selected = "rgba(185, 133, 246, 0.88)";
 export const ColorBgInteractive100Pressed = "rgba(185, 133, 246, 0.84)";
@@ -69,14 +69,14 @@ export const ColorBgInteractive200InvertedPressed = "rgba(33, 33, 33, 0.16)";
 export const ColorBgInteractive300Hover = "rgba(185, 133, 246, 0.08)";
 export const ColorBgInteractive300Selected = "rgba(185, 133, 246, 0.12)";
 export const ColorBgInteractive300Pressed = "rgba(185, 133, 246, 0.16)";
-export const ColorBgInteractive400Hover = "#323232";
-export const ColorBgInteractive400Selected = "#3c3c3c";
-export const ColorBgInteractive400Pressed = "#454545";
+export const ColorBgInteractive400Hover = "#454545";
+export const ColorBgInteractive400Selected = "#565656";
+export const ColorBgInteractive400Pressed = "#686868";
 export const ColorBgTab = "rgba(255, 255, 255, 0)";
 export const ColorBgTabHover = "rgba(255, 255, 255, 0.08)";
 export const ColorBgTabPressed = "rgba(255, 255, 255, 0.16)";
 export const ColorBgTabSelected = "rgba(255, 255, 255, 0)";
-export const ColorBgInput = "#212121";
+export const ColorBgInput = "#3c3c3c";
 export const ColorBgInputError = "#212121";
 export const ColorBgInputWarning = "#212121";
 export const ColorBgSwitchPositive = "rgba(185, 133, 246, 0.16)";
@@ -118,13 +118,13 @@ export const ColorIconWarning = "#f1a052";
 export const ColorBorder100 = "#ffffff";
 export const ColorBorder200 = "#454545";
 export const ColorBorder300 = "#323232";
-export const ColorBorder400 = "#565656";
+export const ColorBorder400 = "#212121";
 export const ColorBorder500 = "#b985f6";
-export const ColorBorder600 = "#3c3c3c";
+export const ColorBorder600 = "#2a2a2a";
 export const ColorBorder700 = "#212121";
 export const ColorBorderError = "#e77878";
 export const ColorBorderWarning = "#f1a052";
-export const ColorBorderInput = "#454545";
+export const ColorBorderInput = "#212121";
 export const ColorFocus100 = "rgba(33, 33, 33, 0.68)";
 export const ColorFocus200 = "rgba(255, 255, 255, 0.68)";
 export const ColorFocus300 = "rgba(185, 133, 246, 0.68)";

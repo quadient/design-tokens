@@ -2,19 +2,19 @@
   "color": {
     "bg": {
       "ui100": {
-        "value": "{color.base.grey1000.value}"
+        "value": "{color.base.grey.850.value}"
       },
       "ui200": {
         "value": "{color.base.grey.950.value}"
       },
       "ui300": {
-        "value": "{color.base.grey.900.value}"
+        "value": "{color.base.grey.950.value}"
       },
       "ui300-inverted": {
         "value": "{color.base.grey.100.value}"
       },
       "header100": {
-        "value": "{color.base.grey1000.value}"
+        "value": "{color.base.grey.850.value}"
       },
       "interactive": {
         "100": {
@@ -122,16 +122,16 @@
           "opacity": "{opacity.base.200.value}"
         },
         "400": {
-          "value": "{color.base.grey1000.value}"
-        },
-        "400-hover": {
-          "value": "{color.base.grey.900.value}"
-        },
-        "400-selected": {
           "value": "{color.base.grey.850.value}"
         },
-        "400-pressed": {
+        "400-hover": {
           "value": "{color.base.grey.800.value}"
+        },
+        "400-selected": {
+          "value": "{color.base.grey.700.value}"
+        },
+        "400-pressed": {
+          "value": "{color.base.grey.600.value}"
         }
       },
       "tab": {
@@ -155,7 +155,7 @@
         "opacity": "{opacity.base.000.value}"
       },
       "input": {
-        "value": "{color.base.grey1000.value}"
+        "value": "{color.base.grey.850.value}"
       },
       "input-error": {
         "value": "{color.base.grey1000.value}"
@@ -285,13 +285,13 @@
         "value": "{color.base.grey.900.value}"
       },
       "400": {
-        "value": "{color.base.grey.700.value}"
+        "value": "{color.base.grey1000.value}"
       },
       "500": {
         "value": "{color.primary.value}"
       },
       "600": {
-        "value": "{color.base.grey.850.value}"
+        "value": "{color.base.grey.950.value}"
       },
       "700": {
         "value": "{color.base.grey1000.value}"
@@ -303,7 +303,7 @@
         "value": "{color.base.orange.300.value}"
       },
       "input": {
-        "value": "{color.base.grey.800.value}"
+        "value": "{color.base.grey1000.value}"
       }
     },
     "focus": {
