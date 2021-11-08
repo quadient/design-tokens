@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 09:24:40 GMT
+ * Generated on Mon, 08 Nov 2021 13:22:53 GMT
  */
 
 export const Angle100 = "0deg";
@@ -44,9 +44,9 @@ export const ColorBgUi200 = "#eeeeee";
 export const ColorBgUi300 = "#eeeeee";
 export const ColorBgUi300Inverted = "#323232";
 export const ColorBgHeader100 = "#ffffff";
-export const ColorBgInteractive100 = "#994cf2";
+export const ColorBgInteractive100 = "#2a76d7";
 export const ColorBgInteractive200 = "rgba(33, 33, 33, 0)";
-export const ColorBgInteractive300 = "rgba(153, 76, 242, 0)";
+export const ColorBgInteractive300 = "rgba(42, 118, 215, 0)";
 export const ColorBgInteractive400 = "#ffffff";
 export const ColorBgInteractive100Hover = "rgba(153, 76, 242, 0.92)";
 export const ColorBgInteractive100Selected = "rgba(153, 76, 242, 0.88)";
@@ -66,9 +66,9 @@ export const ColorBgInteractive200Inverted = "rgba(255, 255, 255, 0)";
 export const ColorBgInteractive200InvertedHover = "rgba(255, 255, 255, 0.08)";
 export const ColorBgInteractive200InvertedSelected = "rgba(255, 255, 255, 0.12)";
 export const ColorBgInteractive200InvertedPressed = "rgba(255, 255, 255, 0.16)";
-export const ColorBgInteractive300Hover = "rgba(153, 76, 242, 0.08)";
+export const ColorBgInteractive300Hover = "rgba(42, 118, 215, 0.08)";
 export const ColorBgInteractive300Selected = "rgba(153, 76, 242, 0.12)";
-export const ColorBgInteractive300Pressed = "rgba(153, 76, 242, 0.16)";
+export const ColorBgInteractive300Pressed = "rgba(42, 118, 215, 0.16)";
 export const ColorBgInteractive400Hover = "#eeeeee";
 export const ColorBgInteractive400Selected = "rgba(42, 118, 215, 0.16)";
 export const ColorBgInteractive400Pressed = "#eeeeee";
@@ -115,11 +115,11 @@ export const ColorIconInfo = "#037fb0";
 export const ColorIconSuccess = "#168936";
 export const ColorIconError = "#dc3838";
 export const ColorIconWarning = "#ea7400";
-export const ColorBorder100 = "#212121";
+export const ColorBorder100 = "#dbdbdb";
 export const ColorBorder200 = "#dbdbdb";
 export const ColorBorder300 = "#eeeeee";
 export const ColorBorder400 = "#cacaca";
-export const ColorBorder500 = "#994cf2";
+export const ColorBorder500 = "#2a76d7";
 export const ColorBorder600 = "#e4e4e4";
 export const ColorBorder700 = "#ffffff";
 export const ColorBorderError = "#dc3838";
@@ -127,7 +127,7 @@ export const ColorBorderWarning = "#ea7400";
 export const ColorBorderInput = "#dbdbdb";
 export const ColorFocus100 = "rgba(255, 255, 255, 0.68)";
 export const ColorFocus200 = "rgba(33, 33, 33, 0.68)";
-export const ColorFocus300 = "rgba(153, 76, 242, 0.68)";
+export const ColorFocus300 = "rgba(42, 118, 215, 0.68)";
 export const ColorOverlay100 = "rgba(33, 33, 33, 0.5)";
 export const ColorChartRed500 = "#dc3838";
 export const ColorChartRed300 = "#e77878";
@@ -452,8 +452,8 @@ export const OpacityBase950 = 0.96;
 export const OpacityBase1000 = 1;
 export const OpacityBase000 = 0.00;
 export const OpacityBase050 = 0.04;
-export const RadiusInput100 = 4;
-export const RadiusButton100 = 24;
+export const RadiusInput100 = 2;
+export const RadiusButton100 = 2;
 export const RadiusButton200 = 8;
 export const RadiusList100 = 8;
 export const RadiusContainer100 = 8;
@@ -526,6 +526,6 @@ export const Shadow400 = "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0
 export const Shadow500 = "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)";
 export const Shadow600 = "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)";
 export const ShadowNone = "none";
-export const ShadowFocus100 = "0px 0px 0px 1px #994cf2";
-export const ShadowFocusError = "0px 0px 0px 1px  #dc3838";
+export const ShadowFocus100 = "none";
+export const ShadowFocusError = "none";
 export const ShadowFocusWarning = "0px 0px 0px 1px #ea7400";

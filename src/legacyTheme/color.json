@@ -4,6 +4,9 @@
         "ui200": { "value": "{color.base.grey.100.value}" },
         "header100": { "value": "{color.base.white.value}" },
         "interactive": {
+          "100": {
+            "value": "{color.brand.100.value}"
+          },
           "200-hover": {
             "value": 1,
             "color": "{color.base.grey1000.value}",
@@ -18,6 +21,21 @@
             "value": 1,
             "color": "{color.base.grey1000.value}",
             "opacity": "{opacity.base.000.value}"
+          },
+          "300": {
+            "value": 1,
+            "color": "{color.brand.100.value}",
+            "opacity": "{opacity.base.000.value}"
+          },
+          "300-hover": {
+            "value": 1,
+            "color": "{color.brand.100.value}",
+            "opacity": "{opacity.base.100.value}"
+          },
+          "300-pressed": {
+            "value": 1,
+            "color": "{color.brand.100.value}",
+            "opacity": "{opacity.base.200.value}"
           },
           "400-selected": {
             "value": 1,
@@ -48,7 +66,22 @@
         "100-pressed": { "value": "{color.brand.100.value}" },
         "300": { "value": "{color.brand.100.value}" },
         "400": { "value": "{color.base.grey.400.value}" }
-      }     
+      },
+      "border": {
+        "100": {
+          "value": "{color.base.grey.200.value}"
+        },
+        "500": {
+          "value": "{color.brand.100.value}"
+        }
+      },
+      "focus": {
+        "300": {
+          "value": 1,
+          "color": "{color.brand.100.value}",
+          "opacity": "{opacity.base.600.value}"
+        }
+      } 
     }
   }
   

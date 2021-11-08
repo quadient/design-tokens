@@ -1,0 +1,10 @@
+{
+  "radius": {
+    "input": {
+      "100" : {"value": "{radius.base.100.value}"}
+    },
+    "button": {
+      "100" : {"value": "{radius.base.100.value}"}
+    }
+  }
+}

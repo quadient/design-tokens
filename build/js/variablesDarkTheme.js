@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Oct 2021 14:45:01 GMT
+ * Generated on Mon, 08 Nov 2021 13:22:49 GMT
  */
 
 export const Angle100 = "0deg";
@@ -83,15 +83,15 @@ export const ColorBgSwitchPositive = "rgba(185, 133, 246, 0.16)";
 export const ColorBgSwitchNegative = "rgba(255, 255, 255, 0.16)";
 export const ColorBgSwitchHandlePositive = "#b985f6";
 export const ColorBgSwitchHandleNegative = "#212121";
-export const ColorBgError100 = "#302323";
-export const ColorBgWarning100 = "#31281e";
-export const ColorBgSuccess100 = "#202923";
-export const ColorBgInfo100 = "#1f282c";
+export const ColorBgError100 = "#4e2727";
+export const ColorBgWarning100 = "#513519";
+export const ColorBgSuccess100 = "#1e3a26";
+export const ColorBgInfo100 = "#1a3743";
 export const ColorError = "#e77878";
 export const ColorWarning = "#f1a052";
 export const ColorInfo = "#54a8c9";
 export const ColorSuccess = "#61af77";
-export const ColorText100 = "#ffffff";
+export const ColorText100 = "#e4e4e4";
 export const ColorText200 = "#cacaca";
 export const ColorText300 = "#b8b8b8";
 export const ColorText400 = "#212121";
@@ -116,7 +116,7 @@ export const ColorIconSuccess = "#61af77";
 export const ColorIconError = "#e77878";
 export const ColorIconWarning = "#f1a052";
 export const ColorBorder100 = "#ffffff";
-export const ColorBorder200 = "#454545";
+export const ColorBorder200 = "#212121";
 export const ColorBorder300 = "#323232";
 export const ColorBorder400 = "#212121";
 export const ColorBorder500 = "#b985f6";
