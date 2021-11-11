@@ -1,3 +1,26 @@
+# 0.0.21
+
+## Added
+- values for legacy tokens:
+`radius-input-100`
+`color-border-input`
+`shadow-focus-100`
+`color-border-100`
+`color-border-500`
+`shadow-focus-100`
+`color-bg-input-error`
+`color-border-error`
+`shadow-focus-error`
+`color-border-300`
+`color-bg-interactive-100`
+`color-bg-interactive-300`
+`radius-button-100`
+`color-bg-interactive-300-hover`
+`color-bg-interactive-300-pressed`
+`color-focus-300`
+## Fixed
+- values of some dark theme tokens to get better visibility
+
 # 0.0.20
 ## Fixed
 - values of some dark theme tokens to get better visibility
