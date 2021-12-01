@@ -20,6 +20,8 @@
 `color-focus-300`
 ## Fixed
 - values of some dark theme tokens to get better visibility
+- values spacing according to values in Figma
+- shadow none value according value in Figma
 
 # 0.0.20
 ## Fixed

@@ -1,7 +1,7 @@
 {
   "shadow": {
     "none": {
-      "value": "none"
+      "value": "0px 0px 0px 0px #000000"
     },
     "100": {
       "value": "0 2px 3px 0 rgba(0,0,0,0.24), 0 1px 3px 0 rgba(0,0,0,0.16)"
@@ -25,7 +25,7 @@
       "value": "0px 0px 0px 1px {color.border.500.value}"
     },
     "focus-error": {
-      "value": "0px 0px 0px 1px  {color.border.error.value}"
+      "value": "0px 0px 0px 1px {color.border.error.value}"
     },
     "focus-warning": {
       "value": "0px 0px 0px 1px {color.border.warning.value}"
