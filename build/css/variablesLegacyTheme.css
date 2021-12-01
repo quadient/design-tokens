@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 09:24:39 GMT
+ * Generated on Wed, 01 Dec 2021 09:13:11 GMT
  */
 
 :root {
@@ -45,9 +45,9 @@
   --color-bg-ui-300: #eeeeee;
   --color-bg-ui-300-inverted: #323232;
   --color-bg-header-100: #ffffff;
-  --color-bg-interactive-100: #994cf2;
+  --color-bg-interactive-100: #2a76d7;
   --color-bg-interactive-200: rgba(33, 33, 33, 0);
-  --color-bg-interactive-300: rgba(153, 76, 242, 0);
+  --color-bg-interactive-300: rgba(42, 118, 215, 0);
   --color-bg-interactive-400: #ffffff;
   --color-bg-interactive-100-hover: rgba(153, 76, 242, 0.92);
   --color-bg-interactive-100-selected: rgba(153, 76, 242, 0.88);
@@ -67,9 +67,9 @@
   --color-bg-interactive-200-inverted-hover: rgba(255, 255, 255, 0.08);
   --color-bg-interactive-200-inverted-selected: rgba(255, 255, 255, 0.12);
   --color-bg-interactive-200-inverted-pressed: rgba(255, 255, 255, 0.16);
-  --color-bg-interactive-300-hover: rgba(153, 76, 242, 0.08);
+  --color-bg-interactive-300-hover: rgba(42, 118, 215, 0.08);
   --color-bg-interactive-300-selected: rgba(153, 76, 242, 0.12);
-  --color-bg-interactive-300-pressed: rgba(153, 76, 242, 0.16);
+  --color-bg-interactive-300-pressed: rgba(42, 118, 215, 0.16);
   --color-bg-interactive-400-hover: #eeeeee;
   --color-bg-interactive-400-selected: rgba(42, 118, 215, 0.16);
   --color-bg-interactive-400-pressed: #eeeeee;
@@ -116,11 +116,11 @@
   --color-icon-success: #168936;
   --color-icon-error: #dc3838;
   --color-icon-warning: #ea7400;
-  --color-border-100: #212121;
+  --color-border-100: #dbdbdb;
   --color-border-200: #dbdbdb;
   --color-border-300: #eeeeee;
   --color-border-400: #cacaca;
-  --color-border-500: #994cf2;
+  --color-border-500: #2a76d7;
   --color-border-600: #e4e4e4;
   --color-border-700: #ffffff;
   --color-border-error: #dc3838;
@@ -128,7 +128,7 @@
   --color-border-input: #dbdbdb;
   --color-focus-100: rgba(255, 255, 255, 0.68);
   --color-focus-200: rgba(33, 33, 33, 0.68);
-  --color-focus-300: rgba(153, 76, 242, 0.68);
+  --color-focus-300: rgba(42, 118, 215, 0.68);
   --color-overlay-100: rgba(33, 33, 33, 0.5);
   --color-chart-red-500: #dc3838;
   --color-chart-red-300: #e77878;
@@ -293,9 +293,9 @@
   --duration-600: 1000ms;
   --duration-700: 3000ms;
   --duration-800: 5000ms;
-  --easing-standard: cubic-bezier(0.45,0,0.40,1);
-  --easing-decelerated: cubic-bezier(0,0,0.40,1);
-  --easing-accelerated: cubic-bezier(0.50,0,1,1);
+  --easing-standard: cubic-bezier(0.45, 0, 0.40, 1);
+  --easing-decelerated: cubic-bezier(0, 0, 0.40, 1);
+  --easing-accelerated: cubic-bezier(0.50, 0, 1, 1);
   --border-width-100: 1px;
   --border-width-200: 2px;
   --border-width-300: 4px;
@@ -453,8 +453,8 @@
   --opacity-base-1000: 1;
   --opacity-base-000: 0.00;
   --opacity-base-050: 0.04;
-  --radius-input-100: 4px;
-  --radius-button-100: 24px;
+  --radius-input-100: 2px;
+  --radius-button-100: 2px;
   --radius-button-200: 8px;
   --radius-list-100: 8px;
   --radius-container-100: 8px;
@@ -526,8 +526,8 @@
   --shadow-400: 0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.16);
   --shadow-500: 0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16);
   --shadow-600: 0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16);
-  --shadow-none: none;
-  --shadow-focus-100: 0px 0px 0px 1px #994cf2;
-  --shadow-focus-error: 0px 0px 0px 1px  #dc3838;
+  --shadow-none: 0px 0px 0px 0px #000000;
+  --shadow-focus-100: 0px 0px 0px 0px #000000;
+  --shadow-focus-error: 0px 0px 0px 0px #000000;
   --shadow-focus-warning: 0px 0px 0px 1px #ea7400;
 }

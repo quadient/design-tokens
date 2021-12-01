@@ -288,9 +288,9 @@
   "Duration600": "1000ms",
   "Duration700": "3000ms",
   "Duration800": "5000ms",
-  "EasingStandard": "cubic-bezier(0.45,0,0.40,1)",
-  "EasingDecelerated": "cubic-bezier(0,0,0.40,1)",
-  "EasingAccelerated": "cubic-bezier(0.50,0,1,1)",
+  "EasingStandard": "cubic-bezier(0.45, 0, 0.40, 1)",
+  "EasingDecelerated": "cubic-bezier(0, 0, 0.40, 1)",
+  "EasingAccelerated": "cubic-bezier(0.50, 0, 1, 1)",
   "BorderWidth100": 1,
   "BorderWidth200": 2,
   "BorderWidth300": 4,
@@ -521,8 +521,8 @@
   "Shadow400": "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.16)",
   "Shadow500": "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)",
   "Shadow600": "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)",
-  "ShadowNone": "none",
+  "ShadowNone": "0px 0px 0px 0px #000000",
   "ShadowFocus100": "0px 0px 0px 1px #994cf2",
-  "ShadowFocusError": "0px 0px 0px 1px  #dc3838",
+  "ShadowFocusError": "0px 0px 0px 1px #dc3838",
   "ShadowFocusWarning": "0px 0px 0px 1px #ea7400"
 }

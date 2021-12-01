@@ -1,7 +1,7 @@
 {
   "easing": {
-    "standard": { "value": "cubic-bezier(0.45,0,0.40,1)" },
-    "decelerated": { "value": "cubic-bezier(0,0,0.40,1)" },
-    "accelerated": { "value": "cubic-bezier(0.50,0,1,1)" }
+    "standard": { "value": "cubic-bezier(0.45, 0, 0.40, 1)" },
+    "decelerated": { "value": "cubic-bezier(0, 0, 0.40, 1)" },
+    "accelerated": { "value": "cubic-bezier(0.50, 0, 1, 1)" }
   }
 }

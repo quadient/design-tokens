@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Oct 2021 14:45:01 GMT
+ * Generated on Wed, 01 Dec 2021 09:13:06 GMT
  */
 
 export const Angle100 = "0deg";
@@ -83,15 +83,15 @@ export const ColorBgSwitchPositive = "rgba(185, 133, 246, 0.16)";
 export const ColorBgSwitchNegative = "rgba(255, 255, 255, 0.16)";
 export const ColorBgSwitchHandlePositive = "#b985f6";
 export const ColorBgSwitchHandleNegative = "#212121";
-export const ColorBgError100 = "#302323";
-export const ColorBgWarning100 = "#31281e";
-export const ColorBgSuccess100 = "#202923";
-export const ColorBgInfo100 = "#1f282c";
+export const ColorBgError100 = "#4e2727";
+export const ColorBgWarning100 = "#513519";
+export const ColorBgSuccess100 = "#1e3a26";
+export const ColorBgInfo100 = "#1a3743";
 export const ColorError = "#e77878";
 export const ColorWarning = "#f1a052";
 export const ColorInfo = "#54a8c9";
 export const ColorSuccess = "#61af77";
-export const ColorText100 = "#ffffff";
+export const ColorText100 = "#e4e4e4";
 export const ColorText200 = "#cacaca";
 export const ColorText300 = "#b8b8b8";
 export const ColorText400 = "#212121";
@@ -116,7 +116,7 @@ export const ColorIconSuccess = "#61af77";
 export const ColorIconError = "#e77878";
 export const ColorIconWarning = "#f1a052";
 export const ColorBorder100 = "#ffffff";
-export const ColorBorder200 = "#454545";
+export const ColorBorder200 = "#212121";
 export const ColorBorder300 = "#323232";
 export const ColorBorder400 = "#212121";
 export const ColorBorder500 = "#b985f6";
@@ -292,9 +292,9 @@ export const Duration550 = "700ms";
 export const Duration600 = "1000ms";
 export const Duration700 = "3000ms";
 export const Duration800 = "5000ms";
-export const EasingStandard = "cubic-bezier(0.45,0,0.40,1)";
-export const EasingDecelerated = "cubic-bezier(0,0,0.40,1)";
-export const EasingAccelerated = "cubic-bezier(0.50,0,1,1)";
+export const EasingStandard = "cubic-bezier(0.45, 0, 0.40, 1)";
+export const EasingDecelerated = "cubic-bezier(0, 0, 0.40, 1)";
+export const EasingAccelerated = "cubic-bezier(0.50, 0, 1, 1)";
 export const BorderWidth100 = 1;
 export const BorderWidth200 = 2;
 export const BorderWidth300 = 4;
@@ -525,7 +525,7 @@ export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0
 export const Shadow400 = "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.16)";
 export const Shadow500 = "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)";
 export const Shadow600 = "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)";
-export const ShadowNone = "none";
+export const ShadowNone = "0px 0px 0px 0px #000000";
 export const ShadowFocus100 = "0px 0px 0px 1px #b985f6";
-export const ShadowFocusError = "0px 0px 0px 1px  #e77878";
+export const ShadowFocusError = "0px 0px 0px 1px #e77878";
 export const ShadowFocusWarning = "0px 0px 0px 1px #f1a052";

@@ -174,16 +174,16 @@
         }
       },
       "error-100": {
-        "value": "{color.base.red.900.value}"
+        "value": "{color.base.red.800.value}"
       },
       "warning-100": {
-        "value": "{color.base.orange.900.value}"
+        "value": "{color.base.orange.800.value}"
       },
       "success-100": {
-        "value": "{color.base.emerald-green.900.value}"
+        "value": "{color.base.emerald-green.800.value}"
       },
       "info-100": {
-        "value": "{color.base.ocean-blue.900.value}"
+        "value": "{color.base.ocean-blue.800.value}"
       }
     },
     "error": {
@@ -200,7 +200,7 @@
     },
     "text": {
       "100": {
-        "value": "{color.base.white.value}"
+        "value": "{color.base.grey.150.value}"
       },
       "200": {
         "value": "{color.base.grey.300.value}"
@@ -279,7 +279,7 @@
         "value": "{color.base.white.value}"
       },
       "200": {
-        "value": "{color.base.grey.800.value}"
+        "value": "{color.base.grey1000.value}"
       },
       "300": {
         "value": "{color.base.grey.900.value}"

@@ -1,0 +1,10 @@
+{
+  "shadow": {
+    "focus-100": {
+      "value": "{shadow.none.value}"
+    },
+    "focus-error": {
+      "value": "{shadow.none.value}"
+    }
+  }
+}

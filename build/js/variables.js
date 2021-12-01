@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 09:24:30 GMT
+ * Generated on Wed, 01 Dec 2021 09:13:00 GMT
  */
 
 export const Angle100 = "0deg";
@@ -292,9 +292,9 @@ export const Duration550 = "700ms";
 export const Duration600 = "1000ms";
 export const Duration700 = "3000ms";
 export const Duration800 = "5000ms";
-export const EasingStandard = "cubic-bezier(0.45,0,0.40,1)";
-export const EasingDecelerated = "cubic-bezier(0,0,0.40,1)";
-export const EasingAccelerated = "cubic-bezier(0.50,0,1,1)";
+export const EasingStandard = "cubic-bezier(0.45, 0, 0.40, 1)";
+export const EasingDecelerated = "cubic-bezier(0, 0, 0.40, 1)";
+export const EasingAccelerated = "cubic-bezier(0.50, 0, 1, 1)";
 export const BorderWidth100 = 1;
 export const BorderWidth200 = 2;
 export const BorderWidth300 = 4;
@@ -525,7 +525,7 @@ export const Shadow300 = "0 6px 9px 0 rgba(0,0,0,0.24), 0 3px 9px 0 rgba(0,0,0,0
 export const Shadow400 = "0 8px 12px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.16)";
 export const Shadow500 = "0 10px 15px 0 rgba(0,0,0,0.24), 0 5px 15px 0 rgba(0,0,0,0.16)";
 export const Shadow600 = "0 12px 18px 0 rgba(0,0,0,0.24), 0 6px 18px 0 rgba(0,0,0,0.16)";
-export const ShadowNone = "none";
+export const ShadowNone = "0px 0px 0px 0px #000000";
 export const ShadowFocus100 = "0px 0px 0px 1px #994cf2";
-export const ShadowFocusError = "0px 0px 0px 1px  #dc3838";
+export const ShadowFocusError = "0px 0px 0px 1px #dc3838";
 export const ShadowFocusWarning = "0px 0px 0px 1px #ea7400";

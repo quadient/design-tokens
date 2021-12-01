@@ -70,7 +70,9 @@ if(isDarkThemeConfiguration) {
 if(isLegacyThemeConfiguration) {
   source.push(
     "src/legacyTheme/color.json",
-    "src/legacyTheme/font.json"
+    "src/legacyTheme/font.json",
+    "src/legacyTheme/radius.json",
+    "src/legacyTheme/shadow.json"
   )
 }
 
