@@ -3,8 +3,7 @@ const tinycolor = require("tinycolor2");
 const path = require("path");
 const fs = require("fs");
 
-const isDarkThemeConfiguration = process.argv[3] && process.argv[3] === './configDarkTheme.js'; 
-const isLegacyThemeConfiguration = process.argv[3] && process.argv[3] === './configLegacyTheme.js'; 
+const isDarkThemeConfiguration = process.argv[3] && process.argv[3] === './configDarkTheme.js';
 
 StyleDictionary.registerAction({
   name: "convertToRGBa",
@@ -67,19 +66,7 @@ if(isDarkThemeConfiguration) {
   )
 }
 
-if(isLegacyThemeConfiguration) {
-  source.push(
-    "src/legacyTheme/color.json",
-    "src/legacyTheme/font.json",
-    "src/legacyTheme/radius.json",
-    "src/legacyTheme/shadow.json"
-  )
-}
-
 function getFileName() {
-  if(isLegacyThemeConfiguration) {
-    return 'variablesLegacyTheme'
-  }
   if(isDarkThemeConfiguration) {
     return 'variablesDarkTheme'
   }

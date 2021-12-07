@@ -1,5 +1,8 @@
-# 0.0.21
+# 0.1.0
+## Changed
+- Legacy tokens and their definitions were moved into private package and are no longer available in this package
 
+# 0.0.21
 ## Added
 - values for legacy tokens:
 `radius-input-100`
