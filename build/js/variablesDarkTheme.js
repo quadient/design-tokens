@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 01 Dec 2021 09:13:06 GMT
+ * Generated on Wed, 08 Dec 2021 06:46:25 GMT
  */
 
 export const Angle100 = "0deg";
@@ -158,7 +158,6 @@ export const ColorChartAdvancedYellow500 = "#fadd60";
 export const ColorChartAdvancedYellow300 = "#b4a14c";
 export const ColorBaseWhite = "#ffffff";
 export const ColorBaseGrey1000 = "#212121";
-export const ColorBaseBlack = "#000000";
 export const ColorBaseEmeraldGreen100 = "#edf6ef";
 export const ColorBaseEmeraldGreen200 = "#c7e3cf";
 export const ColorBaseEmeraldGreen300 = "#61af77";

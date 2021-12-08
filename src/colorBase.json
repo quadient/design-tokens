@@ -3,7 +3,6 @@
     "base": {
       "white": { "value": "#FFFFFF" },
       "grey1000": { "value": "#212121" },
-      "black": { "value": "#000000" },
       "emerald-green": {
         "100": { "value": "#EDF6EF" },
         "200": { "value": "#C7E3CF" },

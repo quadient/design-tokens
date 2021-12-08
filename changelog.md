@@ -1,6 +1,7 @@
 # 0.1.0
 ## Changed
 - Legacy tokens and their definitions were moved into private package and are no longer available in this package
+- Removed token `ColorBaseBlack`, it is no longer needed according to latest UX specs 
 
 # 0.0.21
 ## Added
